@@ -30,7 +30,9 @@
                   "file": 574,
                   "channel_id": -1003175788400,
                   "name": "Death Note S1 - 05 [720p] [Dual] @ani_maniaa.mkv"
-                },
+                }
+              ],
+              "batch2": [
                 {
                   "file": 575,
                   "channel_id": -1003175788400,
@@ -57,7 +59,7 @@
                   "name": "Death Note S1 - 10 [720p] [Dual] @ani_maniaa.mkv"
                 }
               ],
-              "batch2": [
+              "batch3": [
                 {
                   "file": 580,
                   "channel_id": -1003175788400,
@@ -82,7 +84,9 @@
                   "file": 584,
                   "channel_id": -1003175788400,
                   "name": "Death Note S1 - 15 [720p] [Dual] @ani_maniaa.mkv"
-                },
+                }
+              ],
+              "batch4": [
                 {
                   "file": 585,
                   "channel_id": -1003175788400,
@@ -109,7 +113,7 @@
                   "name": "Death Note S1 - 20 [720p] [Dual] @ani_maniaa.mkv"
                 }
               ],
-              "batch3": [
+              "batch5": [
                 {
                   "file": 590,
                   "channel_id": -1003175788400,
@@ -134,14 +138,14 @@
                   "file": 594,
                   "channel_id": -1003175788400,
                   "name": "Death Note S1 - 25 [720p] [Dual] @ani_maniaa.mkv"
-                },
+                }
+              ],
+              "batch6": [
                 {
                   "file": 595,
                   "channel_id": -1003175788400,
                   "name": "Death Note S1 - 26 [720p] [Dual] @ani_maniaa.mkv"
-                }
-              ],
-              "batch_uncategorized": [
+                },
                 {
                   "file": 596,
                   "channel_id": -1003175788400,
@@ -161,7 +165,9 @@
                   "file": 599,
                   "channel_id": -1003175788400,
                   "name": "Death Note S1 - 30 [720p] [Dual] @ani_maniaa.mkv"
-                },
+                }
+              ],
+              "batch7": [
                 {
                   "file": 600,
                   "channel_id": -1003175788400,
@@ -186,7 +192,9 @@
                   "file": 604,
                   "channel_id": -1003175788400,
                   "name": "Death Note S1 - 35 [720p] [Dual] @ani_maniaa.mkv"
-                },
+                }
+              ],
+              "batch8": [
                 {
                   "file": 605,
                   "channel_id": -1003175788400,
@@ -200,12 +208,12 @@
               ]
             },
             "specials": {
-              "OVA 1": {
+              "Relight 1 - Visions of God": {
                 "channel_id": -1003175788400,
                 "file": 610,
                 "name": "Death Note Relight 1 - Visions of God [720p] @ani_maniaa.mkv"
               },
-              "OVA 2": {
+              "Relight 2 - L's Successors": {
                 "channel_id": -1003175788400,
                 "file": 612,
                 "name": "Death Note Relight 2 - L's Successors [720p] @ani_maniaa.mkv"
@@ -252,7 +260,9 @@
                   "file": 465,
                   "channel_id": -1003175788400,
                   "name": "S1 E05 - Devilman Crybaby [Dual] 720p @Anime_Fair.mkv"
-                },
+                }
+              ],
+              "batch2": [
                 {
                   "file": 466,
                   "channel_id": -1003175788400,
@@ -318,7 +328,9 @@
                   "file": 807,
                   "channel_id": -1003175788400,
                   "name": "05. Let Our Sound Resound and Reach Them.mkv"
-                },
+                }
+              ],
+              "batch2": [
                 {
                   "file": 808,
                   "channel_id": -1003175788400,
@@ -350,16 +362,6 @@
             "batches": {
               "batch1": [
                 {
-                  "file": 549,
-                  "channel_id": -1003175788400,
-                  "name": "(@NEW_ANIMES_HINDI_DUB_INDIA)Gachiakuta S01 E06 720p [@Algit.mkv"
-                },
-                {
-                  "file": 552,
-                  "channel_id": -1003175788400,
-                  "name": "(@NEW_ANIMES_HINDI_DUB_INDIA)Gachiakuta S01 E09 720p.mkv"
-                },
-                {
                   "file": 544,
                   "channel_id": -1003175788400,
                   "name": "Gachiakuta S01E01 [Hindi]_720P HD.mp4"
@@ -375,6 +377,28 @@
                   "name": "Gachiakuta S01E05 [Hindi]_720P HD.mp4"
                 },
                 {
+                  "file": 546,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix S1EP-03.mkv"
+                },
+                {
+                  "file": 547,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix S1EP-04.mkv"
+                }
+              ],
+              "batch2": [
+                {
+                  "file": 549,
+                  "channel_id": -1003175788400,
+                  "name": "(@NEW_ANIMES_HINDI_DUB_INDIA)Gachiakuta S01 E06 720p [@Algit.mkv"
+                },
+                {
+                  "file": 552,
+                  "channel_id": -1003175788400,
+                  "name": "(@NEW_ANIMES_HINDI_DUB_INDIA)Gachiakuta S01 E09 720p.mkv"
+                },
+                {
                   "file": 551,
                   "channel_id": -1003175788400,
                   "name": "[@AniReal_Anime_Zone] S01E08 Gachiakuta 720p.mp4"
@@ -385,22 +409,12 @@
                   "name": "[@Anime_Hindi_Flix S01EP-07.mp4"
                 },
                 {
-                  "file": 546,
-                  "channel_id": -1003175788400,
-                  "name": "[@Anime_Hindi_Flix S1EP-03.mkv"
-                },
-                {
-                  "file": 547,
-                  "channel_id": -1003175788400,
-                  "name": "[@Anime_Hindi_Flix S1EP-04.mkv"
-                },
-                {
                   "file": 553,
                   "channel_id": -1003175788400,
                   "name": "[@Anime_Hindi_Flix] S1EP-10.mp4"
                 }
               ],
-              "batch2": [
+              "batch3": [
                 {
                   "file": 554,
                   "channel_id": -1003175788400,
@@ -421,6 +435,13 @@
                   "channel_id": -1003175788400,
                   "name": "[@Anime_Hindi_Flix] season 01 episode 14 720p.mp4"
                 },
+                {
+                  "file": 558,
+                  "channel_id": -1003175788400,
+                  "name": "[@FlyTonTV] Gachiakuta S01E15 [Hindi] 720P_HD.mkv"
+                }
+              ],
+              "batch4": [
                 {
                   "file": 559,
                   "channel_id": -1003175788400,
@@ -445,14 +466,9 @@
                   "file": 561,
                   "channel_id": -1003175788400,
                   "name": "[@Anime_Hindi_Flix] season 1 episode 18 720p.mp4"
-                },
-                {
-                  "file": 558,
-                  "channel_id": -1003175788400,
-                  "name": "[@FlyTonTV] Gachiakuta S01E15 [Hindi] 720P_HD.mkv"
                 }
               ],
-              "batch3": [
+              "batch5": [
                 {
                   "file": 564,
                   "channel_id": -1003175788400,
@@ -557,7 +573,9 @@
                   "file": 379,
                   "channel_id": -1003175788400,
                   "name": "Toonworld4all_Haikyuu!!_S01E05_1080p_x265_10bit_BluRay_Multi_Audio.mp4"
-                },
+                }
+              ],
+              "batch2": [
                 {
                   "file": 380,
                   "channel_id": -1003175788400,
@@ -584,7 +602,7 @@
                   "name": "Toonworld4all_Haikyuu!!_S01E10_1080p_x265_10bit_BluRay_Multi_Audio.mp4"
                 }
               ],
-              "batch2": [
+              "batch3": [
                 {
                   "file": 385,
                   "channel_id": -1003175788400,
@@ -609,7 +627,9 @@
                   "file": 389,
                   "channel_id": -1003175788400,
                   "name": "Toonworld4all_Haikyuu!!_S01E15_1080p_x265_10bit_BluRay.mp4"
-                },
+                }
+              ],
+              "batch4": [
                 {
                   "file": 390,
                   "channel_id": -1003175788400,
@@ -636,7 +656,7 @@
                   "name": "Toonworld4all_Haikyuu!!_S01E20_1080p_x265_10bit_BluRay.mp4"
                 }
               ],
-              "batch3": [
+              "batch5": [
                 {
                   "file": 395,
                   "channel_id": -1003175788400,
@@ -702,7 +722,9 @@
                   "file": 95,
                   "channel_id": -1003175788400,
                   "name": "Toonworld4all_Haikyuu!!_S02E05_1080p_x265_10bit_BluRay_Mul.mkv"
-                },
+                }
+              ],
+              "batch2": [
                 {
                   "file": 96,
                   "channel_id": -1003175788400,
@@ -714,7 +736,7 @@
                   "name": "Toonworld4all_Haikyuu!!_S02E08_1080p_x265_10bit_BluRay_Mul.mkv"
                 }
               ],
-              "batch2": [
+              "batch3": [
                 {
                   "file": 101,
                   "channel_id": -1003175788400,
@@ -739,7 +761,9 @@
                   "file": 105,
                   "channel_id": -1003175788400,
                   "name": "Toonworld4all_Haikyuu!!_S02E15_1080p_x265_10bit_BluRay_Mul.mkv"
-                },
+                }
+              ],
+              "batch4": [
                 {
                   "file": 106,
                   "channel_id": -1003175788400,
@@ -766,7 +790,7 @@
                   "name": "Toonworld4all_Haikyuu!!_S02E20_1080p_x265_10bit_BluRay_Mul.mkv"
                 }
               ],
-              "batch3": [
+              "batch5": [
                 {
                   "file": 111,
                   "channel_id": -1003175788400,
@@ -848,7 +872,9 @@
                   "file": 406,
                   "channel_id": -1003175788400,
                   "name": "[@Anime_Hindi_Flix S3EP-05.mkv"
-                },
+                }
+              ],
+              "batch2": [
                 {
                   "file": 407,
                   "channel_id": -1003175788400,
@@ -916,7 +942,9 @@
                   "file": 191,
                   "channel_id": -1003175788400,
                   "name": "[@Anime_Hindi_Flix] season 04 episode 05 720p.mkv"
-                },
+                }
+              ],
+              "batch2": [
                 {
                   "file": 192,
                   "channel_id": -1003175788400,
@@ -943,7 +971,7 @@
                   "name": "[@Anime_Hindi_Flix] season 04 episode 10 720p.mkv"
                 }
               ],
-              "batch2": [
+              "batch3": [
                 {
                   "file": 197,
                   "channel_id": -1003175788400,
@@ -1005,7 +1033,9 @@
                   "file": 220,
                   "channel_id": -1003175788400,
                   "name": "Jujutsu Kaisen_05_@Download_Animes.mp4"
-                },
+                }
+              ],
+              "batch2": [
                 {
                   "file": 221,
                   "channel_id": -1003175788400,
@@ -1032,7 +1062,7 @@
                   "name": "Jujutsu Kaisen_10_@Download_Animes.mp4"
                 }
               ],
-              "batch2": [
+              "batch3": [
                 {
                   "file": 226,
                   "channel_id": -1003175788400,
@@ -1057,7 +1087,9 @@
                   "file": 230,
                   "channel_id": -1003175788400,
                   "name": "Jujutsu Kaisen_15_@Download_Animes.mp4"
-                },
+                }
+              ],
+              "batch4": [
                 {
                   "file": 231,
                   "channel_id": -1003175788400,
@@ -1084,7 +1116,7 @@
                   "name": "Jujutsu Kaisen_20_@Download_Animes.mp4"
                 }
               ],
-              "batch3": [
+              "batch5": [
                 {
                   "file": 236,
                   "channel_id": -1003175788400,
@@ -1154,7 +1186,9 @@
                   "file": 249,
                   "channel_id": -1003175788400,
                   "name": "Jujutsu Kaisen Season 2_05_@Download_Animes.mp4"
-                },
+                }
+              ],
+              "batch2": [
                 {
                   "file": 250,
                   "channel_id": -1003175788400,
@@ -1181,7 +1215,7 @@
                   "name": "Jujutsu Kaisen Season 2_10_@Download_Animes.mp4"
                 }
               ],
-              "batch2": [
+              "batch3": [
                 {
                   "file": 255,
                   "channel_id": -1003175788400,
@@ -1206,7 +1240,9 @@
                   "file": 259,
                   "channel_id": -1003175788400,
                   "name": "Jujutsu Kaisen Season 2_15_@Download_Animes.mp4"
-                },
+                }
+              ],
+              "batch4": [
                 {
                   "file": 260,
                   "channel_id": -1003175788400,
@@ -1233,7 +1269,7 @@
                   "name": "Jujutsu Kaisen Season 2_20_@Download_Animes.mp4"
                 }
               ],
-              "batch3": [
+              "batch5": [
                 {
                   "file": 265,
                   "channel_id": -1003175788400,
@@ -1272,6 +1308,33 @@
             "batches": {
               "batch1": [
                 {
+                  "file": 618,
+                  "channel_id": -1003175788400,
+                  "name": "Komi Cant Communicate - 04 [720p] [Sub] @ani_maniaa.mp4"
+                },
+                {
+                  "file": 619,
+                  "channel_id": -1003175788400,
+                  "name": "Komi Cant Communicate S1 - 05 [720p][Sub] @ani_maniaa.mp4"
+                },
+                {
+                  "file": 615,
+                  "channel_id": -1003175788400,
+                  "name": "Komi Cant Communicate S1 01 [Sub] [720P] @ani Maniaa-1.mp4"
+                },
+                {
+                  "file": 616,
+                  "channel_id": -1003175788400,
+                  "name": "Komi Cant Communicate S1 02 [Sub] [720P] @ani_maniaa.mp4"
+                },
+                {
+                  "file": 617,
+                  "channel_id": -1003175788400,
+                  "name": "Komi Cant Communicate S1 03 [720p] [Sub] @ani_maniaa.mp4"
+                }
+              ],
+              "batch2": [
+                {
                   "file": 621,
                   "channel_id": -1003175788400,
                   "name": "Komi Can't Communicate S1 - 07 [720p] [Sub] @ani_maniaa.mp4"
@@ -1292,37 +1355,12 @@
                   "name": "Komi Can't Communicate S1 - 10 [720p] [Sub] @ani_maniaa.mkv"
                 },
                 {
-                  "file": 618,
-                  "channel_id": -1003175788400,
-                  "name": "Komi Cant Communicate - 04 [720p] [Sub] @ani_maniaa.mp4"
-                },
-                {
-                  "file": 619,
-                  "channel_id": -1003175788400,
-                  "name": "Komi Cant Communicate S1 - 05 [720p][Sub] @ani_maniaa.mp4"
-                },
-                {
                   "file": 620,
                   "channel_id": -1003175788400,
                   "name": "Komi Cant Communicate S1 - 06 [720p] [Sub] @ani_maniaa.mp4"
-                },
-                {
-                  "file": 615,
-                  "channel_id": -1003175788400,
-                  "name": "Komi Cant Communicate S1 01 [Sub] [720P] @ani Maniaa-1.mp4"
-                },
-                {
-                  "file": 616,
-                  "channel_id": -1003175788400,
-                  "name": "Komi Cant Communicate S1 02 [Sub] [720P] @ani_maniaa.mp4"
-                },
-                {
-                  "file": 617,
-                  "channel_id": -1003175788400,
-                  "name": "Komi Cant Communicate S1 03 [720p] [Sub] @ani_maniaa.mp4"
                 }
               ],
-              "batch2": [
+              "batch3": [
                 {
                   "file": 625,
                   "channel_id": -1003175788400,
@@ -1377,7 +1415,9 @@
                   "file": 443,
                   "channel_id": -1003175788400,
                   "name": "Lookism E05 @Dub_Anime_in_Hindi.mp4"
-                },
+                }
+              ],
+              "batch2": [
                 {
                   "file": 444,
                   "channel_id": -1003175788400,
@@ -1412,75 +1452,6 @@
         "languages": {
           "English/Japanese": {
             "batches": {
-              "batch1": [
-                {
-                  "file": 684,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S1 - 01 [720p] [Dual] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 685,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S1 - 02 [720p] [Dual] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 686,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S1 - 03 [720p] [Dual] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 687,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S1 - 04 [720p] [Dual] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 688,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S1 - 05 [720p] [Dual] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 689,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S1 - 06 [720p] [Dual] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 690,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S1 - 07 [720p] [Dual] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 691,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S1 - 08 [720p] [Dual] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 692,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S1 - 09 [720p] [Dual] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 693,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S1 - 10 [720p] [Dual] @Anime_Gallery.mkv"
-                }
-              ],
-              "batch2": [
-                {
-                  "file": 694,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S1 - 11 [720p] [Dual] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 695,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S1 - 12 [720p] [Dual] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 696,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S1 - 13 [720p] [Dual] @Anime_Gallery.mkv"
-                }
-              ],
               "batch_uncategorized": [
                 {
                   "file": 756,
@@ -1596,6 +1567,86 @@
                   "file": 800,
                   "channel_id": -1003175788400,
                   "name": "I've_Been_Killing_Slimes_for_300_Years_and_Maxed_Out_My_Leve.mp4"
+                },
+                {
+                  "file": 700,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss Movie - 01 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 702,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss Movie - 02 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 704,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss Movie - 03 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 684,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S1 - 01 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 685,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S1 - 02 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 686,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S1 - 03 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 687,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S1 - 04 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 688,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S1 - 05 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 689,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S1 - 06 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 690,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S1 - 07 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 691,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S1 - 08 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 692,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S1 - 09 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 693,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S1 - 10 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 694,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S1 - 11 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 695,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S1 - 12 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 696,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S1 - 13 [720p] [Dual] @Anime_Gallery.mkv"
                 },
                 {
                   "file": 708,
@@ -1874,23 +1925,7 @@
                 }
               ]
             },
-            "specials": {
-              "Movie 1": {
-                "channel_id": -1003175788400,
-                "file": 700,
-                "name": "Made In Abyss Movie - 01 [720p] [Dual] @Anime_Gallery.mkv"
-              },
-              "Movie 2": {
-                "channel_id": -1003175788400,
-                "file": 702,
-                "name": "Made In Abyss Movie - 02 [720p] [Dual] @Anime_Gallery.mkv"
-              },
-              "Movie 3": {
-                "channel_id": -1003175788400,
-                "file": 704,
-                "name": "Made In Abyss Movie - 03 [720p] [Dual] @Anime_Gallery.mkv"
-              }
-            }
+            "specials": {}
           }
         },
         "mal_ids": [
@@ -1930,7 +1965,9 @@
                   "file": 283,
                   "channel_id": -1003175788400,
                   "name": ": [@Anime_Hindi_Flix S1Ep05.mkv"
-                },
+                }
+              ],
+              "batch2": [
                 {
                   "file": 287,
                   "channel_id": -1003175788400,
@@ -1957,7 +1994,7 @@
                   "name": ": [@Anime_Hindi_Flix S1Ep10.mkv"
                 }
               ],
-              "batch2": [
+              "batch3": [
                 {
                   "file": 301,
                   "channel_id": -1003175788400,
@@ -2004,11 +2041,6 @@
                   "name": "Reborn as a Vending Machine, I Now Wander the Dungeon S02E03.mp4"
                 },
                 {
-                  "file": 322,
-                  "channel_id": -1003175788400,
-                  "name": "[@Anime_Hindi_Flix S02EP-06.mp4"
-                },
-                {
                   "file": 312,
                   "channel_id": -1003175788400,
                   "name": "[@Anime_Hindi_Flix S2EP-02.mkv"
@@ -2017,6 +2049,13 @@
                   "file": 317,
                   "channel_id": -1003175788400,
                   "name": "[@Anime_Hindi_Flix S2EP-04.mp4"
+                }
+              ],
+              "batch2": [
+                {
+                  "file": 322,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix S02EP-06.mp4"
                 },
                 {
                   "file": 328,
@@ -2102,7 +2141,9 @@
                   "file": 353,
                   "channel_id": -1003175788400,
                   "name": "[S1-05] The Seven Deadly Sins [Dual] @AnimexWrld.mkv"
-                },
+                }
+              ],
+              "batch2": [
                 {
                   "file": 354,
                   "channel_id": -1003175788400,
@@ -2129,7 +2170,7 @@
                   "name": "[S1-10] The Seven Deadly Sins [Dual] @AnimexWrld.mkv"
                 }
               ],
-              "batch2": [
+              "batch3": [
                 {
                   "file": 359,
                   "channel_id": -1003175788400,
@@ -2154,7 +2195,9 @@
                   "file": 363,
                   "channel_id": -1003175788400,
                   "name": "[S1-15] The Seven Deadly Sins [Dual] @AnimexWrld.mkv"
-                },
+                }
+              ],
+              "batch4": [
                 {
                   "file": 364,
                   "channel_id": -1003175788400,
@@ -2181,7 +2224,7 @@
                   "name": "[S1-20] The Seven Deadly Sins [Dual] @AnimexWrld.mkv"
                 }
               ],
-              "batch3": [
+              "batch5": [
                 {
                   "file": 369,
                   "channel_id": -1003175788400,
@@ -2242,7 +2285,9 @@
                   "file": 482,
                   "channel_id": -1003175788400,
                   "name": "Seven Deadly Sins - S4 E05 [Dual] 720p @Anime_Fair.mkv"
-                },
+                }
+              ],
+              "batch2": [
                 {
                   "file": 483,
                   "channel_id": -1003175788400,
@@ -2269,7 +2314,7 @@
                   "name": "Seven Deadly Sins - S4 E10 [Dual] 720p @Anime_Fair.mkv"
                 }
               ],
-              "batch2": [
+              "batch3": [
                 {
                   "file": 488,
                   "channel_id": -1003175788400,
@@ -2294,7 +2339,9 @@
                   "file": 492,
                   "channel_id": -1003175788400,
                   "name": "Seven Deadly Sins - S4 E15 [Dual] 720p @Anime_Fair.mkv"
-                },
+                }
+              ],
+              "batch4": [
                 {
                   "file": 493,
                   "channel_id": -1003175788400,
@@ -2321,7 +2368,7 @@
                   "name": "Seven Deadly Sins - S4 E20 [Dual] 720p @Anime_Fair.mkv"
                 }
               ],
-              "batch3": [
+              "batch5": [
                 {
                   "file": 498,
                   "channel_id": -1003175788400,
@@ -2382,7 +2429,9 @@
                   "file": 508,
                   "channel_id": -1003175788400,
                   "name": "Seven Deadly Sins - S5 E05 [Dual] 720p @Anime_Fair.mkv"
-                },
+                }
+              ],
+              "batch2": [
                 {
                   "file": 509,
                   "channel_id": -1003175788400,
@@ -2409,7 +2458,7 @@
                   "name": "Seven Deadly Sins - S5 E10 [Dual] 720p @Anime_Fair.mkv"
                 }
               ],
-              "batch2": [
+              "batch3": [
                 {
                   "file": 514,
                   "channel_id": -1003175788400,
@@ -2434,7 +2483,9 @@
                   "file": 518,
                   "channel_id": -1003175788400,
                   "name": "Seven Deadly Sins - S5 E15 [Dual] 720p @Anime_Fair.mkv"
-                },
+                }
+              ],
+              "batch4": [
                 {
                   "file": 519,
                   "channel_id": -1003175788400,
@@ -2461,7 +2512,7 @@
                   "name": "Seven Deadly Sins - S5 E20 [Dual] 720p @Anime_Fair.mkv"
                 }
               ],
-              "batch3": [
+              "batch5": [
                 {
                   "file": 524,
                   "channel_id": -1003175788400,
@@ -2523,6 +2574,13 @@
                   "name": "Your Lie In April S01 E05 [720p] Hindi [@Anime_Hindi_Fli.mkv"
                 },
                 {
+                  "file": 415,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 01 720p.mkv"
+                }
+              ],
+              "batch2": [
+                {
                   "file": 420,
                   "channel_id": -1003175788400,
                   "name": "Your Lie In April S01 E06 [720p] Hindi [@Anime_Hindi_Fli.mkv"
@@ -2546,14 +2604,9 @@
                   "file": 424,
                   "channel_id": -1003175788400,
                   "name": "[@Anime_Hindi_Flix] Your Lie in April S01E10 [Hindi] 720.mkv"
-                },
-                {
-                  "file": 415,
-                  "channel_id": -1003175788400,
-                  "name": "[@Anime_Hindi_Flix] season 01 episode 01 720p.mkv"
                 }
               ],
-              "batch2": [
+              "batch3": [
                 {
                   "file": 425,
                   "channel_id": -1003175788400,
@@ -2578,7 +2631,9 @@
                   "file": 429,
                   "channel_id": -1003175788400,
                   "name": "[@Anime_Hindi_Flix] season 01 episode 15 720p.mkv"
-                },
+                }
+              ],
+              "batch4": [
                 {
                   "file": 430,
                   "channel_id": -1003175788400,
@@ -2605,7 +2660,7 @@
                   "name": "[@Anime_Hindi_Flix] season 01 episode 20 720p.mkv"
                 }
               ],
-              "batch3": [
+              "batch5": [
                 {
                   "file": 435,
                   "channel_id": -1003175788400,
