@@ -5,7 +5,15 @@
         "languages": {
           "English/Japanese": {
             "batches": {
-              "batch1": [
+              "batch_uncategorized": [
+                {
+                  "file": 610,
+                  "name": "Death Note Relight 1 - Visions of God [720p] @ani_maniaa.mkv"
+                },
+                {
+                  "file": 612,
+                  "name": "Death Note Relight 2 - L's Successors [720p] @ani_maniaa.mkv"
+                },
                 {
                   "file": 570,
                   "name": "Death Note S1 - 01 [720p] [Dual] @ani_maniaa.mkv"
@@ -25,9 +33,7 @@
                 {
                   "file": 574,
                   "name": "Death Note S1 - 05 [720p] [Dual] @ani_maniaa.mkv"
-                }
-              ],
-              "batch2": [
+                },
                 {
                   "file": 575,
                   "name": "Death Note S1 - 06 [720p] [Dual] @ani_maniaa.mkv"
@@ -47,9 +53,7 @@
                 {
                   "file": 579,
                   "name": "Death Note S1 - 10 [720p] [Dual] @ani_maniaa.mkv"
-                }
-              ],
-              "batch3": [
+                },
                 {
                   "file": 580,
                   "name": "Death Note S1 - 11 [720p] [Dual] @ani_maniaa.mkv"
@@ -69,9 +73,7 @@
                 {
                   "file": 584,
                   "name": "Death Note S1 - 15 [720p] [Dual] @ani_maniaa.mkv"
-                }
-              ],
-              "batch4": [
+                },
                 {
                   "file": 585,
                   "name": "Death Note S1 - 16 [720p] [Dual] @ani_maniaa.mkv"
@@ -91,9 +93,7 @@
                 {
                   "file": 589,
                   "name": "Death Note S1 - 20 [720p] [Dual] @ani_maniaa.mkv"
-                }
-              ],
-              "batch5": [
+                },
                 {
                   "file": 590,
                   "name": "Death Note S1 - 21 [720p] [Dual] @ani_maniaa.mkv"
@@ -113,9 +113,7 @@
                 {
                   "file": 594,
                   "name": "Death Note S1 - 25 [720p] [Dual] @ani_maniaa.mkv"
-                }
-              ],
-              "batch6": [
+                },
                 {
                   "file": 595,
                   "name": "Death Note S1 - 26 [720p] [Dual] @ani_maniaa.mkv"
@@ -135,9 +133,7 @@
                 {
                   "file": 599,
                   "name": "Death Note S1 - 30 [720p] [Dual] @ani_maniaa.mkv"
-                }
-              ],
-              "batch7": [
+                },
                 {
                   "file": 600,
                   "name": "Death Note S1 - 31 [720p] [Dual] @ani_maniaa.mkv"
@@ -157,9 +153,7 @@
                 {
                   "file": 604,
                   "name": "Death Note S1 - 35 [720p] [Dual] @ani_maniaa.mkv"
-                }
-              ],
-              "batch8": [
+                },
                 {
                   "file": 605,
                   "name": "Death Note S1 - 36 [720p] [Dual] @ani_maniaa.mkv"
@@ -186,7 +180,7 @@
         "languages": {
           "Multi Audio": {
             "batches": {
-              "batch1": [
+              "batch_uncategorized": [
                 {
                   "file": 461,
                   "name": "S1 E01 - Devilman Crybaby [Dual] 720p @Anime_Fair.mkv"
@@ -206,9 +200,7 @@
                 {
                   "file": 465,
                   "name": "S1 E05 - Devilman Crybaby [Dual] 720p @Anime_Fair.mkv"
-                }
-              ],
-              "batch2": [
+                },
                 {
                   "file": 466,
                   "name": "S1 E06 - Devilman Crybaby [Dual] 720p @Anime_Fair.mkv"
@@ -290,7 +282,15 @@
         "languages": {
           "Hindi": {
             "batches": {
-              "batch1": [
+              "batch_uncategorized": [
+                {
+                  "file": 549,
+                  "name": "(@NEW_ANIMES_HINDI_DUB_INDIA)Gachiakuta S01 E06 720p [@Algit.mkv"
+                },
+                {
+                  "file": 552,
+                  "name": "(@NEW_ANIMES_HINDI_DUB_INDIA)Gachiakuta S01 E09 720p.mkv"
+                },
                 {
                   "file": 544,
                   "name": "Gachiakuta S01E01 [Hindi]_720P HD.mp4"
@@ -298,6 +298,18 @@
                 {
                   "file": 545,
                   "name": "Gachiakuta S01E02 [Hindi]_720P HD.mp4"
+                },
+                {
+                  "file": 548,
+                  "name": "Gachiakuta S01E05 [Hindi]_720P HD.mp4"
+                },
+                {
+                  "file": 551,
+                  "name": "[@AniReal_Anime_Zone] S01E08 Gachiakuta 720p.mp4"
+                },
+                {
+                  "file": 550,
+                  "name": "[@Anime_Hindi_Flix S01EP-07.mp4"
                 },
                 {
                   "file": 546,
@@ -308,33 +320,9 @@
                   "name": "[@Anime_Hindi_Flix S1EP-04.mkv"
                 },
                 {
-                  "file": 548,
-                  "name": "Gachiakuta S01E05 [Hindi]_720P HD.mp4"
-                }
-              ],
-              "batch2": [
-                {
-                  "file": 549,
-                  "name": "(@NEW_ANIMES_HINDI_DUB_INDIA)Gachiakuta S01 E06 720p [@Algit.mkv"
-                },
-                {
-                  "file": 550,
-                  "name": "[@Anime_Hindi_Flix S01EP-07.mp4"
-                },
-                {
-                  "file": 551,
-                  "name": "[@AniReal_Anime_Zone] S01E08 Gachiakuta 720p.mp4"
-                },
-                {
-                  "file": 552,
-                  "name": "(@NEW_ANIMES_HINDI_DUB_INDIA)Gachiakuta S01 E09 720p.mkv"
-                },
-                {
                   "file": 553,
                   "name": "[@Anime_Hindi_Flix] S1EP-10.mp4"
-                }
-              ],
-              "batch3": [
+                },
                 {
                   "file": 554,
                   "name": "[@Anime_Hindi_Flix] S1EP-11.mp4"
@@ -352,12 +340,6 @@
                   "name": "[@Anime_Hindi_Flix] season 01 episode 14 720p.mp4"
                 },
                 {
-                  "file": 558,
-                  "name": "[@FlyTonTV] Gachiakuta S01E15 [Hindi] 720P_HD.mkv"
-                }
-              ],
-              "batch4": [
-                {
                   "file": 559,
                   "name": "[@Anime_Hindi_Flix] season 01 episode 16 720p.mp4"
                 },
@@ -366,19 +348,13 @@
                   "name": "[@Anime_Hindi_Flix] season 01 episode 17 720p.mp4"
                 },
                 {
-                  "file": 561,
-                  "name": "[@Anime_Hindi_Flix] season 1 episode 18 720p.mp4"
-                },
-                {
                   "file": 562,
                   "name": "[@Anime_Hindi_Flix] season 01 episode 19 720p.mkv"
                 },
                 {
                   "file": 563,
                   "name": "[@Anime_Hindi_Flix] season 01 episode 20 720p.mp4"
-                }
-              ],
-              "batch5": [
+                },
                 {
                   "file": 564,
                   "name": "[@Anime_Hindi_Flix] season 01 episode 21 720p.mkv"
@@ -390,6 +366,14 @@
                 {
                   "file": 566,
                   "name": "[@Anime_Hindi_Flix] season 01 episode 23 720p.mp4"
+                },
+                {
+                  "file": 561,
+                  "name": "[@Anime_Hindi_Flix] season 1 episode 18 720p.mp4"
+                },
+                {
+                  "file": 558,
+                  "name": "[@FlyTonTV] Gachiakuta S01E15 [Hindi] 720P_HD.mkv"
                 }
               ]
             },
@@ -406,41 +390,7 @@
   "Genocyber": {
     "seasons": {
       "1": {
-        "batches": {
-          "batch_uncategorized": [
-            {
-              "file": 538,
-              "name": "[S1-01] Genocyber [720p] [Dual] @Anime_Ocean.mkv"
-            },
-            {
-              "file": 539,
-              "name": "[S1-02] Genocyber [720p] [Dual] @Anime_Ocean.mkv"
-            },
-            {
-              "file": 540,
-              "name": "[S1-03] Genocyber [720p] [Dual] @Anime_Ocean.mkv"
-            },
-            {
-              "file": 541,
-              "name": "[S1-04] Genocyber [720p] [Dual] @Anime_Ocean.mkv"
-            },
-            {
-              "file": 542,
-              "name": "[S1-05] Genocyber [720p] [Dual] @Anime_Ocean.mkv"
-            }
-          ]
-        },
-        "language": "No Audio",
         "languages": {
-          "English/Sub": {
-            "batches": {},
-            "specials": {
-              "Special_1": {
-                "file": 239,
-                "name": "Jujutsu Kaisen_24_@Download_Animes.mp4"
-              }
-            }
-          },
           "No Audio": {
             "batches": {
               "batch_uncategorized": [
@@ -470,12 +420,8 @@
           }
         },
         "mal_ids": [
-          "2775",
-          "40748",
-          "48561",
-          "51009"
+          "2775"
         ],
-        "specials": {},
         "total_episodes": 0
       }
     }
@@ -483,123 +429,10 @@
   "Haikyuu": {
     "seasons": {
       "1": {
-        "batches": {
-          "batch1": [
-            {
-              "file": 375,
-              "name": "Toonworld4all_Haikyuu!!_S01E01_1080p_x265_10bit_BluRay_Multi_Audio.mp4"
-            },
-            {
-              "file": 376,
-              "name": "Toonworld4all_Haikyuu!!_S01E02_1080p_x265_10bit_BluRay_Multi_Audio.mp4"
-            },
-            {
-              "file": 377,
-              "name": "Toonworld4all_Haikyuu!!_S01E03_1080p_x265_10bit_BluRay_Multi_Audio.mkv"
-            },
-            {
-              "file": 378,
-              "name": "Toonworld4all_Haikyuu!!_S01E04_1080p_x265_10bit_BluRay_Multi_Audio.mp4"
-            },
-            {
-              "file": 379,
-              "name": "Toonworld4all_Haikyuu!!_S01E05_1080p_x265_10bit_BluRay_Multi_Audio.mp4"
-            }
-          ],
-          "batch2": [
-            {
-              "file": 380,
-              "name": "Toonworld4all_Haikyuu!!_S01E06_1080p_x265_10bit_BluRay_Multi_Audio.mp4"
-            },
-            {
-              "file": 381,
-              "name": "Toonworld4all_Haikyuu!!_S01E07_1080p_x265_10bit_BluRay_Multi_Audio.mp4"
-            },
-            {
-              "file": 382,
-              "name": "Toonworld4all_Haikyuu!!_S01E08_1080p_x265_10bit_BluRay_Multi_Audio.mp4"
-            },
-            {
-              "file": 383,
-              "name": "Toonworld4all_Haikyuu!!_S01E09_1080p_x265_10bit_BluRay_Multi_Audio.mp4"
-            },
-            {
-              "file": 384,
-              "name": "Toonworld4all_Haikyuu!!_S01E10_1080p_x265_10bit_BluRay_Multi_Audio.mp4"
-            }
-          ],
-          "batch3": [
-            {
-              "file": 385,
-              "name": "Toonworld4all_Haikyuu!!_S01E11_1080p_x265_10bit_BluRay_Multi_Audio.mp4"
-            },
-            {
-              "file": 386,
-              "name": "Toonworld4all_Haikyuu!!_S01E12_1080p_x265_10bit_BluRay_Multi_Audio.mp4"
-            },
-            {
-              "file": 387,
-              "name": "Toonworld4all_Haikyuu!!_S01E13_1080p_x265_10bit_BluRay_Multi_Audio.mp4"
-            },
-            {
-              "file": 388,
-              "name": "Toonworld4all_Haikyuu!!_S01E14_1080p_x265_10bit_BluRay.mp4"
-            },
-            {
-              "file": 389,
-              "name": "Toonworld4all_Haikyuu!!_S01E15_1080p_x265_10bit_BluRay.mp4"
-            }
-          ],
-          "batch4": [
-            {
-              "file": 390,
-              "name": "Toonworld4all_Haikyuu!!_S01E16_1080p_x265_10bit_BluRay.mp4"
-            },
-            {
-              "file": 391,
-              "name": "Toonworld4all_Haikyuu!!_S01E17_1080p_x265_10bit_BluRay.mp4"
-            },
-            {
-              "file": 392,
-              "name": "Toonworld4all_Haikyuu!!_S01E18_1080p_x265_10bit_BluRay.mp4"
-            },
-            {
-              "file": 393,
-              "name": "Toonworld4all_Haikyuu!!_S01E19_1080p_x265_10bit_BluRay.mp4"
-            },
-            {
-              "file": 394,
-              "name": "Toonworld4all_Haikyuu!!_S01E20_1080p_x265_10bit_BluRay.mp4"
-            }
-          ],
-          "batch5": [
-            {
-              "file": 395,
-              "name": "Toonworld4all_Haikyuu!!_S01E21_1080p_x265_10bit_BluRay.mp4"
-            },
-            {
-              "file": 396,
-              "name": "Toonworld4all_Haikyuu!!_S01E22_1080p_x265_10bit_BluRay.mp4"
-            },
-            {
-              "file": 397,
-              "name": "Toonworld4all_Haikyuu!!_S01E23_1080p_x265_10bit_BluRay.mp4"
-            },
-            {
-              "file": 398,
-              "name": "Toonworld4all_Haikyuu!!_S01E24_1080p_x265_10bit_BluRay.mp4"
-            },
-            {
-              "file": 399,
-              "name": "Toonworld4all_Haikyuu!!_S01E25_1080p_x265_10bit_BluRay.mp4"
-            }
-          ]
-        },
-        "language": "Hindi",
         "languages": {
           "Hindi": {
             "batches": {
-              "batch1": [
+              "batch_uncategorized": [
                 {
                   "file": 375,
                   "name": "Toonworld4all_Haikyuu!!_S01E01_1080p_x265_10bit_BluRay_Multi_Audio.mp4"
@@ -619,9 +452,7 @@
                 {
                   "file": 379,
                   "name": "Toonworld4all_Haikyuu!!_S01E05_1080p_x265_10bit_BluRay_Multi_Audio.mp4"
-                }
-              ],
-              "batch2": [
+                },
                 {
                   "file": 380,
                   "name": "Toonworld4all_Haikyuu!!_S01E06_1080p_x265_10bit_BluRay_Multi_Audio.mp4"
@@ -641,9 +472,7 @@
                 {
                   "file": 384,
                   "name": "Toonworld4all_Haikyuu!!_S01E10_1080p_x265_10bit_BluRay_Multi_Audio.mp4"
-                }
-              ],
-              "batch3": [
+                },
                 {
                   "file": 385,
                   "name": "Toonworld4all_Haikyuu!!_S01E11_1080p_x265_10bit_BluRay_Multi_Audio.mp4"
@@ -663,9 +492,7 @@
                 {
                   "file": 389,
                   "name": "Toonworld4all_Haikyuu!!_S01E15_1080p_x265_10bit_BluRay.mp4"
-                }
-              ],
-              "batch4": [
+                },
                 {
                   "file": 390,
                   "name": "Toonworld4all_Haikyuu!!_S01E16_1080p_x265_10bit_BluRay.mp4"
@@ -685,9 +512,7 @@
                 {
                   "file": 394,
                   "name": "Toonworld4all_Haikyuu!!_S01E20_1080p_x265_10bit_BluRay.mp4"
-                }
-              ],
-              "batch5": [
+                },
                 {
                   "file": 395,
                   "name": "Toonworld4all_Haikyuu!!_S01E21_1080p_x265_10bit_BluRay.mp4"
@@ -716,149 +541,69 @@
         "mal_ids": [
           "20583"
         ],
-        "specials": {},
         "total_episodes": 25
       },
       "2": {
-        "batches": {
-          "batch1": [
-            {
-              "file": 116,
-              "name": "Toonworld4all_Haikyuu!!_S02E01_480p_x264_BluRay_Multi_Audi.mkv"
-            },
-            {
-              "file": 117,
-              "name": "Toonworld4all_Haikyuu!!_S02E02_480p_x264_BluRay_Multi_Audi.mkv"
-            },
-            {
-              "file": 118,
-              "name": "Toonworld4all_Haikyuu!!_S02E03_480p_x264_BluRay_Multi_Audi.mkv"
-            },
-            {
-              "file": 119,
-              "name": "Toonworld4all_Haikyuu!!_S02E04_480p_x264_BluRay_Multi_Audi.mkv"
-            },
-            {
-              "file": 120,
-              "name": "Toonworld4all_Haikyuu!!_S02E05_480p_x264_BluRay_Multi_Audi.mkv"
-            }
-          ],
-          "batch2": [
-            {
-              "file": 121,
-              "name": "Toonworld4all_Haikyuu!!_S02E06_480p_x264_BluRay_Multi_Audi.mkv"
-            },
-            {
-              "file": 122,
-              "name": "Toonworld4all_Haikyuu!!_S02E07_480p_x264_BluRay_Multi_Audi.mkv"
-            },
-            {
-              "file": 123,
-              "name": "Toonworld4all_Haikyuu!!_S02E08_480p_x264_BluRay_Multi_Audi.mkv"
-            },
-            {
-              "file": 124,
-              "name": "Toonworld4all_Haikyuu!!_S02E09_480p_x264_BluRay_Multi_Audi.mkv"
-            },
-            {
-              "file": 125,
-              "name": "Toonworld4all_Haikyuu!!_S02E10_480p_x264_BluRay_Multi_Audi.mkv"
-            }
-          ],
-          "batch3": [
-            {
-              "file": 126,
-              "name": "Toonworld4all_Haikyuu!!_S02E11_480p_x264_BluRay_Multi_Audi.mkv"
-            },
-            {
-              "file": 127,
-              "name": "Toonworld4all_Haikyuu!!_S02E12_480p_x264_BluRay_Multi_Audi.mkv"
-            },
-            {
-              "file": 128,
-              "name": "Toonworld4all_Haikyuu!!_S02E13_480p_x264_BluRay_Multi_Audi.mkv"
-            },
-            {
-              "file": 129,
-              "name": "Toonworld4all_Haikyuu!!_S02E14_480p_x264_BluRay_Multi_Audi.mkv"
-            },
-            {
-              "file": 130,
-              "name": "Toonworld4all_Haikyuu!!_S02E15_480p_x264_BluRay_Multi_Audi.mkv"
-            }
-          ],
-          "batch4": [
-            {
-              "file": 131,
-              "name": "Toonworld4all_Haikyuu!!_S02E16_480p_x264_BluRay_Multi_Audi.mkv"
-            },
-            {
-              "file": 132,
-              "name": "Toonworld4all_Haikyuu!!_S02E17_480p_x264_BluRay_Multi_Audi.mkv"
-            },
-            {
-              "file": 133,
-              "name": "Toonworld4all_Haikyuu!!_S02E18_480p_x264_BluRay_Multi_Audi.mkv"
-            },
-            {
-              "file": 134,
-              "name": "Toonworld4all_Haikyuu!!_S02E19_480p_x264_BluRay_Multi_Audi.mkv"
-            },
-            {
-              "file": 135,
-              "name": "Toonworld4all_Haikyuu!!_S02E20_480p_x264_BluRay_Multi_Audi.mkv"
-            }
-          ],
-          "batch5": [
-            {
-              "file": 136,
-              "name": "Toonworld4all_Haikyuu!!_S02E21_480p_x264_BluRay_Multi_Audi.mkv"
-            },
-            {
-              "file": 137,
-              "name": "Toonworld4all_Haikyuu!!_S02E22_480p_x264_BluRay_Multi_Audi.mkv"
-            },
-            {
-              "file": 138,
-              "name": "Toonworld4all_Haikyuu!!_S02E23_480p_x264_BluRay_Multi_Audi.mkv"
-            },
-            {
-              "file": 139,
-              "name": "Toonworld4all_Haikyuu!!_S02E24_480p_x264_BluRay_Multi_Audi.mkv"
-            },
-            {
-              "file": 140,
-              "name": "Toonworld4all_Haikyuu!!_S02E25_480p_x264_BluRay_Multi_Audi.mkv"
-            }
-          ]
-        },
-        "language": "Hindi",
         "languages": {
           "Hindi": {
             "batches": {
-              "batch1": [
+              "batch_uncategorized": [
+                {
+                  "file": 100,
+                  "name": "10.mkv"
+                },
+                {
+                  "file": 99,
+                  "name": "9.mkv"
+                },
+                {
+                  "file": 97,
+                  "name": "GDToT.com rnmhtzdacsgejpbvgjixbieer.mkv"
+                },
+                {
+                  "file": 91,
+                  "name": "Haikyu season 2 ep 1.mkv"
+                },
                 {
                   "file": 116,
                   "name": "Toonworld4all_Haikyuu!!_S02E01_480p_x264_BluRay_Multi_Audi.mkv"
+                },
+                {
+                  "file": 92,
+                  "name": "Toonworld4all_Haikyuu!!_S02E02_1080p_x265_10bit_BluRay_Mul.mkv"
                 },
                 {
                   "file": 117,
                   "name": "Toonworld4all_Haikyuu!!_S02E02_480p_x264_BluRay_Multi_Audi.mkv"
                 },
                 {
+                  "file": 93,
+                  "name": "Toonworld4all_Haikyuu!!_S02E03_1080p_x265_10bit_BluRay_Mul.mkv"
+                },
+                {
                   "file": 118,
                   "name": "Toonworld4all_Haikyuu!!_S02E03_480p_x264_BluRay_Multi_Audi.mkv"
+                },
+                {
+                  "file": 94,
+                  "name": "Toonworld4all_Haikyuu!!_S02E04_1080p_x265_10bit_BluRay_Mul.mkv"
                 },
                 {
                   "file": 119,
                   "name": "Toonworld4all_Haikyuu!!_S02E04_480p_x264_BluRay_Multi_Audi.mkv"
                 },
                 {
+                  "file": 95,
+                  "name": "Toonworld4all_Haikyuu!!_S02E05_1080p_x265_10bit_BluRay_Mul.mkv"
+                },
+                {
                   "file": 120,
                   "name": "Toonworld4all_Haikyuu!!_S02E05_480p_x264_BluRay_Multi_Audi.mkv"
-                }
-              ],
-              "batch2": [
+                },
+                {
+                  "file": 96,
+                  "name": "Toonworld4all_Haikyuu!!_S02E06_1080p_x265_10bit_BluRay_Mul.mkv"
+                },
                 {
                   "file": 121,
                   "name": "Toonworld4all_Haikyuu!!_S02E06_480p_x264_BluRay_Multi_Audi.mkv"
@@ -866,6 +611,10 @@
                 {
                   "file": 122,
                   "name": "Toonworld4all_Haikyuu!!_S02E07_480p_x264_BluRay_Multi_Audi.mkv"
+                },
+                {
+                  "file": 98,
+                  "name": "Toonworld4all_Haikyuu!!_S02E08_1080p_x265_10bit_BluRay_Mul.mkv"
                 },
                 {
                   "file": 123,
@@ -878,68 +627,122 @@
                 {
                   "file": 125,
                   "name": "Toonworld4all_Haikyuu!!_S02E10_480p_x264_BluRay_Multi_Audi.mkv"
-                }
-              ],
-              "batch3": [
+                },
+                {
+                  "file": 101,
+                  "name": "Toonworld4all_Haikyuu!!_S02E11_1080p_x265_10bit_BluRay_Mul.mkv"
+                },
                 {
                   "file": 126,
                   "name": "Toonworld4all_Haikyuu!!_S02E11_480p_x264_BluRay_Multi_Audi.mkv"
+                },
+                {
+                  "file": 102,
+                  "name": "Toonworld4all_Haikyuu!!_S02E12_1080p_x265_10bit_BluRay_Mul.mkv"
                 },
                 {
                   "file": 127,
                   "name": "Toonworld4all_Haikyuu!!_S02E12_480p_x264_BluRay_Multi_Audi.mkv"
                 },
                 {
+                  "file": 103,
+                  "name": "Toonworld4all_Haikyuu!!_S02E13_1080p_x265_10bit_BluRay_Mul.mkv"
+                },
+                {
                   "file": 128,
                   "name": "Toonworld4all_Haikyuu!!_S02E13_480p_x264_BluRay_Multi_Audi.mkv"
+                },
+                {
+                  "file": 104,
+                  "name": "Toonworld4all_Haikyuu!!_S02E14_1080p_x265_10bit_BluRay_Mul.mkv"
                 },
                 {
                   "file": 129,
                   "name": "Toonworld4all_Haikyuu!!_S02E14_480p_x264_BluRay_Multi_Audi.mkv"
                 },
                 {
+                  "file": 105,
+                  "name": "Toonworld4all_Haikyuu!!_S02E15_1080p_x265_10bit_BluRay_Mul.mkv"
+                },
+                {
                   "file": 130,
                   "name": "Toonworld4all_Haikyuu!!_S02E15_480p_x264_BluRay_Multi_Audi.mkv"
-                }
-              ],
-              "batch4": [
+                },
+                {
+                  "file": 106,
+                  "name": "Toonworld4all_Haikyuu!!_S02E16_1080p_x265_10bit_BluRay_Mul.mkv"
+                },
                 {
                   "file": 131,
                   "name": "Toonworld4all_Haikyuu!!_S02E16_480p_x264_BluRay_Multi_Audi.mkv"
+                },
+                {
+                  "file": 107,
+                  "name": "Toonworld4all_Haikyuu!!_S02E17_1080p_x265_10bit_BluRay_Mul.mkv"
                 },
                 {
                   "file": 132,
                   "name": "Toonworld4all_Haikyuu!!_S02E17_480p_x264_BluRay_Multi_Audi.mkv"
                 },
                 {
+                  "file": 108,
+                  "name": "Toonworld4all_Haikyuu!!_S02E18_1080p_x265_10bit_BluRay_Mul.mkv"
+                },
+                {
                   "file": 133,
                   "name": "Toonworld4all_Haikyuu!!_S02E18_480p_x264_BluRay_Multi_Audi.mkv"
+                },
+                {
+                  "file": 109,
+                  "name": "Toonworld4all_Haikyuu!!_S02E19_1080p_x265_10bit_BluRay_Mul.mkv"
                 },
                 {
                   "file": 134,
                   "name": "Toonworld4all_Haikyuu!!_S02E19_480p_x264_BluRay_Multi_Audi.mkv"
                 },
                 {
+                  "file": 110,
+                  "name": "Toonworld4all_Haikyuu!!_S02E20_1080p_x265_10bit_BluRay_Mul.mkv"
+                },
+                {
                   "file": 135,
                   "name": "Toonworld4all_Haikyuu!!_S02E20_480p_x264_BluRay_Multi_Audi.mkv"
-                }
-              ],
-              "batch5": [
+                },
+                {
+                  "file": 111,
+                  "name": "Toonworld4all_Haikyuu!!_S02E21_1080p_x265_10bit_BluRay_Mul.mkv"
+                },
                 {
                   "file": 136,
                   "name": "Toonworld4all_Haikyuu!!_S02E21_480p_x264_BluRay_Multi_Audi.mkv"
+                },
+                {
+                  "file": 112,
+                  "name": "Toonworld4all_Haikyuu!!_S02E22_1080p_x265_10bit_BluRay_Mul.mkv"
                 },
                 {
                   "file": 137,
                   "name": "Toonworld4all_Haikyuu!!_S02E22_480p_x264_BluRay_Multi_Audi.mkv"
                 },
                 {
+                  "file": 113,
+                  "name": "Toonworld4all_Haikyuu!!_S02E23_1080p_x265_10bit_BluRay_Mul.mkv"
+                },
+                {
                   "file": 138,
                   "name": "Toonworld4all_Haikyuu!!_S02E23_480p_x264_BluRay_Multi_Audi.mkv"
                 },
                 {
+                  "file": 114,
+                  "name": "Toonworld4all_Haikyuu!!_S02E24_1080p_x265_10bit_BluRay_Mul.mkv"
+                },
+                {
                   "file": 139,
                   "name": "Toonworld4all_Haikyuu!!_S02E24_480p_x264_BluRay_Multi_Audi.mkv"
+                },
+                {
+                  "file": 115,
+                  "name": "Toonworld4all_Haikyuu!!_S02E25_1080p_x265_10bit_BluRay_Mul.mkv"
                 },
                 {
                   "file": 140,
@@ -953,61 +756,13 @@
         "mal_ids": [
           "20583"
         ],
-        "specials": {},
         "total_episodes": 0
       },
       "3": {
-        "batches": {
-          "batch1": [
-            {
-              "file": 402,
-              "name": "[@Anime_Hindi_Flix S3EP-01.mkv"
-            },
-            {
-              "file": 403,
-              "name": "[@Anime_Hindi_Flix S3EP-02.mkv"
-            },
-            {
-              "file": 404,
-              "name": "[@Anime_Hindi_Flix S3EP-03.mkv"
-            },
-            {
-              "file": 405,
-              "name": "[@Anime_Hindi_Flix S3EP-03.mkv"
-            },
-            {
-              "file": 406,
-              "name": "[@Anime_Hindi_Flix S3EP-05.mkv"
-            }
-          ],
-          "batch2": [
-            {
-              "file": 407,
-              "name": "[@Anime_Hindi_Flix S3EP-06.mkv"
-            },
-            {
-              "file": 408,
-              "name": "[@Anime_Hindi_Flix S3EP-07.mkv"
-            },
-            {
-              "file": 409,
-              "name": "[@Anime_Hindi_Flix S3EP-08.mkv"
-            },
-            {
-              "file": 410,
-              "name": "[@Anime_Hindi_Flix S3EP-09.mkv"
-            },
-            {
-              "file": 411,
-              "name": "[@Anime_Hindi_Flix S3EP-10.mkv"
-            }
-          ]
-        },
-        "language": "Hindi",
         "languages": {
           "Hindi": {
             "batches": {
-              "batch1": [
+              "batch_uncategorized": [
                 {
                   "file": 402,
                   "name": "[@Anime_Hindi_Flix S3EP-01.mkv"
@@ -1027,9 +782,7 @@
                 {
                   "file": 406,
                   "name": "[@Anime_Hindi_Flix S3EP-05.mkv"
-                }
-              ],
-              "batch2": [
+                },
                 {
                   "file": 407,
                   "name": "[@Anime_Hindi_Flix S3EP-06.mkv"
@@ -1058,130 +811,168 @@
         "mal_ids": [
           "20583"
         ],
-        "specials": {},
         "total_episodes": 10
       },
       "4": {
-        "batches": {
-          "batch1": [
-            {
-              "file": 200,
-              "name": "[@Anime_Hindi_Flix] season 04 episode 01 1080p.mkv"
-            },
-            {
-              "file": 201,
-              "name": "[@Anime_Hindi_Flix] season 04 episode 02 1080p.mkv"
-            },
-            {
-              "file": 202,
-              "name": "[@Anime_Hindi_Flix] season 04 episode 03 1080p.mkv"
-            },
-            {
-              "file": 203,
-              "name": "[@Anime_Hindi_Flix] season 04 episode 04 1080p.mkv"
-            },
-            {
-              "file": 204,
-              "name": "[@Anime_Hindi_Flix] season 04 episode 05 1080p.mkv"
-            }
-          ],
-          "batch2": [
-            {
-              "file": 205,
-              "name": "[@Anime_Hindi_Flix] season 04 episode 06 1080p.mkv"
-            },
-            {
-              "file": 206,
-              "name": "[@Anime_Hindi_Flix] season 04 episode 07 1080p.mkv"
-            },
-            {
-              "file": 207,
-              "name": "[@Anime_Hindi_Flix] season 04 episode 08 1080p.mkv"
-            },
-            {
-              "file": 208,
-              "name": "[@Anime_Hindi_Flix] season 04 episode 09 1080p.mkv"
-            },
-            {
-              "file": 209,
-              "name": "[@Anime_Hindi_Flix] season 04 episode 10 1080p.mkv"
-            }
-          ],
-          "batch3": [
-            {
-              "file": 210,
-              "name": "[@Anime_Hindi_Flix] season 04 episode 11 1080p.mkv"
-            },
-            {
-              "file": 211,
-              "name": "[@Anime_Hindi_Flix] season 04 episode 12 1080p.mkv"
-            },
-            {
-              "file": 212,
-              "name": "[@Anime_Hindi_Flix] season 04 episode 13 1080p.mkv"
-            }
-          ]
-        },
-        "language": "Hindi",
         "languages": {
           "Hindi": {
             "batches": {
-              "batch1": [
+              "batch_uncategorized": [
                 {
                   "file": 200,
                   "name": "[@Anime_Hindi_Flix] season 04 episode 01 1080p.mkv"
+                },
+                {
+                  "file": 174,
+                  "name": "[@Anime_Hindi_Flix] season 04 episode 01 480p.mkv"
+                },
+                {
+                  "file": 187,
+                  "name": "[@Anime_Hindi_Flix] season 04 episode 01 720p.mkv"
                 },
                 {
                   "file": 201,
                   "name": "[@Anime_Hindi_Flix] season 04 episode 02 1080p.mkv"
                 },
                 {
+                  "file": 175,
+                  "name": "[@Anime_Hindi_Flix] season 04 episode 02 480p.mkv"
+                },
+                {
+                  "file": 188,
+                  "name": "[@Anime_Hindi_Flix] season 04 episode 02 720p.mkv"
+                },
+                {
                   "file": 202,
                   "name": "[@Anime_Hindi_Flix] season 04 episode 03 1080p.mkv"
+                },
+                {
+                  "file": 176,
+                  "name": "[@Anime_Hindi_Flix] season 04 episode 03 480p.mkv"
+                },
+                {
+                  "file": 189,
+                  "name": "[@Anime_Hindi_Flix] season 04 episode 03 720p.mkv"
                 },
                 {
                   "file": 203,
                   "name": "[@Anime_Hindi_Flix] season 04 episode 04 1080p.mkv"
                 },
                 {
+                  "file": 177,
+                  "name": "[@Anime_Hindi_Flix] season 04 episode 04 480p.mkv"
+                },
+                {
+                  "file": 190,
+                  "name": "[@Anime_Hindi_Flix] season 04 episode 04 720p.mkv"
+                },
+                {
                   "file": 204,
                   "name": "[@Anime_Hindi_Flix] season 04 episode 05 1080p.mkv"
-                }
-              ],
-              "batch2": [
+                },
+                {
+                  "file": 178,
+                  "name": "[@Anime_Hindi_Flix] season 04 episode 05 480p.mkv"
+                },
+                {
+                  "file": 191,
+                  "name": "[@Anime_Hindi_Flix] season 04 episode 05 720p.mkv"
+                },
                 {
                   "file": 205,
                   "name": "[@Anime_Hindi_Flix] season 04 episode 06 1080p.mkv"
+                },
+                {
+                  "file": 179,
+                  "name": "[@Anime_Hindi_Flix] season 04 episode 06 480p.mkv"
+                },
+                {
+                  "file": 192,
+                  "name": "[@Anime_Hindi_Flix] season 04 episode 06 720p.mkv"
                 },
                 {
                   "file": 206,
                   "name": "[@Anime_Hindi_Flix] season 04 episode 07 1080p.mkv"
                 },
                 {
+                  "file": 180,
+                  "name": "[@Anime_Hindi_Flix] season 04 episode 07 480p.mkv"
+                },
+                {
+                  "file": 193,
+                  "name": "[@Anime_Hindi_Flix] season 04 episode 07 720p.mkv"
+                },
+                {
                   "file": 207,
                   "name": "[@Anime_Hindi_Flix] season 04 episode 08 1080p.mkv"
+                },
+                {
+                  "file": 181,
+                  "name": "[@Anime_Hindi_Flix] season 04 episode 08 480p.mkv"
+                },
+                {
+                  "file": 194,
+                  "name": "[@Anime_Hindi_Flix] season 04 episode 08 720p.mkv"
                 },
                 {
                   "file": 208,
                   "name": "[@Anime_Hindi_Flix] season 04 episode 09 1080p.mkv"
                 },
                 {
+                  "file": 182,
+                  "name": "[@Anime_Hindi_Flix] season 04 episode 09 480p.mkv"
+                },
+                {
+                  "file": 195,
+                  "name": "[@Anime_Hindi_Flix] season 04 episode 09 720p.mkv"
+                },
+                {
                   "file": 209,
                   "name": "[@Anime_Hindi_Flix] season 04 episode 10 1080p.mkv"
-                }
-              ],
-              "batch3": [
+                },
+                {
+                  "file": 183,
+                  "name": "[@Anime_Hindi_Flix] season 04 episode 10 480p.mkv"
+                },
+                {
+                  "file": 196,
+                  "name": "[@Anime_Hindi_Flix] season 04 episode 10 720p.mkv"
+                },
                 {
                   "file": 210,
                   "name": "[@Anime_Hindi_Flix] season 04 episode 11 1080p.mkv"
+                },
+                {
+                  "file": 184,
+                  "name": "[@Anime_Hindi_Flix] season 04 episode 11 480p.mkv"
+                },
+                {
+                  "file": 197,
+                  "name": "[@Anime_Hindi_Flix] season 04 episode 11 720p.mkv"
                 },
                 {
                   "file": 211,
                   "name": "[@Anime_Hindi_Flix] season 04 episode 12 1080p.mkv"
                 },
                 {
+                  "file": 185,
+                  "name": "[@Anime_Hindi_Flix] season 04 episode 12 480p.mkv"
+                },
+                {
+                  "file": 198,
+                  "name": "[@Anime_Hindi_Flix] season 04 episode 12 720p.mkv"
+                },
+                {
                   "file": 212,
                   "name": "[@Anime_Hindi_Flix] season 04 episode 13 1080p.mkv"
+                },
+                {
+                  "file": 186,
+                  "name": "[@Anime_Hindi_Flix] season 04 episode 13 480p.mkv"
+                },
+                {
+                  "file": 199,
+                  "name": "[@Anime_Hindi_Flix] season 04 episode 13 720p.mkv"
                 }
               ]
             },
@@ -1193,7 +984,6 @@
           "28891",
           "32935"
         ],
-        "specials": {},
         "total_episodes": 0
       }
     }
@@ -1201,33 +991,113 @@
   "Jujutsu Kaisen": {
     "seasons": {
       "1": {
-        "batches": {},
-        "language": "English/Sub",
-        "mal_ids": [
-          "40748",
-          "51009",
-          "48561"
-        ],
-        "specials": {
-          "Special_1": {
-            "file": 239,
-            "name": "Jujutsu Kaisen_24_@Download_Animes.mp4"
-          }
-        },
-        "total_episodes": 0
-      },
-      "2": {
-        "batches": {},
-        "language": "English/Sub",
         "languages": {
           "English/Sub": {
-            "batches": {},
-            "specials": {
-              "Special_1": {
-                "file": 267,
-                "name": "Jujutsu Kaisen Season 2_23_@Download_Animes.mp4"
-              }
-            }
+            "batches": {
+              "batch_uncategorized": [
+                {
+                  "file": 242,
+                  "name": "Jujutsu Kaisen 0_01_@Download_Animes.mp4"
+                },
+                {
+                  "file": 216,
+                  "name": "Jujutsu Kaisen_01_@Download_Animes.mp4"
+                },
+                {
+                  "file": 217,
+                  "name": "Jujutsu Kaisen_02_@Download_Animes.mp4"
+                },
+                {
+                  "file": 218,
+                  "name": "Jujutsu Kaisen_03_@Download_Animes.mp4"
+                },
+                {
+                  "file": 219,
+                  "name": "Jujutsu Kaisen_04_@Download_Animes.mp4"
+                },
+                {
+                  "file": 220,
+                  "name": "Jujutsu Kaisen_05_@Download_Animes.mp4"
+                },
+                {
+                  "file": 221,
+                  "name": "Jujutsu Kaisen_06_@Download_Animes.mp4"
+                },
+                {
+                  "file": 222,
+                  "name": "Jujutsu Kaisen_07_@Download_Animes.mp4"
+                },
+                {
+                  "file": 223,
+                  "name": "Jujutsu Kaisen_08_@Download_Animes.mp4"
+                },
+                {
+                  "file": 224,
+                  "name": "Jujutsu Kaisen_09_@Download_Animes.mp4"
+                },
+                {
+                  "file": 225,
+                  "name": "Jujutsu Kaisen_10_@Download_Animes.mp4"
+                },
+                {
+                  "file": 226,
+                  "name": "Jujutsu Kaisen_11_@Download_Animes.mp4"
+                },
+                {
+                  "file": 227,
+                  "name": "Jujutsu Kaisen_12_@Download_Animes.mp4"
+                },
+                {
+                  "file": 228,
+                  "name": "Jujutsu Kaisen_13_@Download_Animes.mp4"
+                },
+                {
+                  "file": 229,
+                  "name": "Jujutsu Kaisen_14_@Download_Animes.mp4"
+                },
+                {
+                  "file": 230,
+                  "name": "Jujutsu Kaisen_15_@Download_Animes.mp4"
+                },
+                {
+                  "file": 231,
+                  "name": "Jujutsu Kaisen_16_@Download_Animes.mp4"
+                },
+                {
+                  "file": 232,
+                  "name": "Jujutsu Kaisen_17_@Download_Animes.mp4"
+                },
+                {
+                  "file": 233,
+                  "name": "Jujutsu Kaisen_18_@Download_Animes.mp4"
+                },
+                {
+                  "file": 234,
+                  "name": "Jujutsu Kaisen_19_@Download_Animes.mp4"
+                },
+                {
+                  "file": 235,
+                  "name": "Jujutsu Kaisen_20_@Download_Animes.mp4"
+                },
+                {
+                  "file": 236,
+                  "name": "Jujutsu Kaisen_21_@Download_Animes.mp4"
+                },
+                {
+                  "file": 237,
+                  "name": "Jujutsu Kaisen_22_@Download_Animes.mp4"
+                },
+                {
+                  "file": 238,
+                  "name": "Jujutsu Kaisen_23_@Download_Animes.mp4"
+                },
+                {
+                  "file": 239,
+                  "name": "Jujutsu Kaisen_24_@Download_Animes.mp4"
+                }
+              ]
+            },
+            "specials": {}
           }
         },
         "mal_ids": [
@@ -1235,12 +1105,115 @@
           "48561",
           "51009"
         ],
-        "specials": {
-          "Special_1": {
-            "file": 267,
-            "name": "Jujutsu Kaisen Season 2_23_@Download_Animes.mp4"
+        "total_episodes": 0
+      },
+      "2": {
+        "languages": {
+          "English/Sub": {
+            "batches": {
+              "batch_uncategorized": [
+                {
+                  "file": 245,
+                  "name": "Jujutsu Kaisen Season 2_01_@Download_Animes.mp4"
+                },
+                {
+                  "file": 246,
+                  "name": "Jujutsu Kaisen Season 2_02_@Download_Animes.mp4"
+                },
+                {
+                  "file": 247,
+                  "name": "Jujutsu Kaisen Season 2_03_@Download_Animes.mp4"
+                },
+                {
+                  "file": 248,
+                  "name": "Jujutsu Kaisen Season 2_04_@Download_Animes.mp4"
+                },
+                {
+                  "file": 249,
+                  "name": "Jujutsu Kaisen Season 2_05_@Download_Animes.mp4"
+                },
+                {
+                  "file": 250,
+                  "name": "Jujutsu Kaisen Season 2_06_@Download_Animes.mp4"
+                },
+                {
+                  "file": 251,
+                  "name": "Jujutsu Kaisen Season 2_07_@Download_Animes.mp4"
+                },
+                {
+                  "file": 252,
+                  "name": "Jujutsu Kaisen Season 2_08_@Download_Animes.mp4"
+                },
+                {
+                  "file": 253,
+                  "name": "Jujutsu Kaisen Season 2_09_@Download_Animes.mp4"
+                },
+                {
+                  "file": 254,
+                  "name": "Jujutsu Kaisen Season 2_10_@Download_Animes.mp4"
+                },
+                {
+                  "file": 255,
+                  "name": "Jujutsu Kaisen Season 2_11_@Download_Animes.mp4"
+                },
+                {
+                  "file": 256,
+                  "name": "Jujutsu Kaisen Season 2_12_@Download_Animes.mp4"
+                },
+                {
+                  "file": 257,
+                  "name": "Jujutsu Kaisen Season 2_13_@Download_Animes.mp4"
+                },
+                {
+                  "file": 258,
+                  "name": "Jujutsu Kaisen Season 2_14_@Download_Animes.mp4"
+                },
+                {
+                  "file": 259,
+                  "name": "Jujutsu Kaisen Season 2_15_@Download_Animes.mp4"
+                },
+                {
+                  "file": 260,
+                  "name": "Jujutsu Kaisen Season 2_16_@Download_Animes.mp4"
+                },
+                {
+                  "file": 261,
+                  "name": "Jujutsu Kaisen Season 2_17_@Download_Animes.mp4"
+                },
+                {
+                  "file": 262,
+                  "name": "Jujutsu Kaisen Season 2_18_@Download_Animes.mp4"
+                },
+                {
+                  "file": 263,
+                  "name": "Jujutsu Kaisen Season 2_19_@Download_Animes.mp4"
+                },
+                {
+                  "file": 264,
+                  "name": "Jujutsu Kaisen Season 2_20_@Download_Animes.mp4"
+                },
+                {
+                  "file": 265,
+                  "name": "Jujutsu Kaisen Season 2_21_@Download_Animes.mp4"
+                },
+                {
+                  "file": 266,
+                  "name": "Jujutsu Kaisen Season 2_22_@Download_Animes.mp4"
+                },
+                {
+                  "file": 267,
+                  "name": "Jujutsu Kaisen Season 2_23_@Download_Animes.mp4"
+                }
+              ]
+            },
+            "specials": {}
           }
         },
+        "mal_ids": [
+          "40748",
+          "48561",
+          "51009"
+        ],
         "total_episodes": 0
       }
     }
@@ -1251,33 +1224,7 @@
         "languages": {
           "English/Sub": {
             "batches": {
-              "batch1": [
-                {
-                  "file": 615,
-                  "name": "Komi Cant Communicate S1 01 [Sub] [720P] @ani Maniaa-1.mp4"
-                },
-                {
-                  "file": 616,
-                  "name": "Komi Cant Communicate S1 02 [Sub] [720P] @ani_maniaa.mp4"
-                },
-                {
-                  "file": 617,
-                  "name": "Komi Cant Communicate S1 03 [720p] [Sub] @ani_maniaa.mp4"
-                },
-                {
-                  "file": 618,
-                  "name": "Komi Cant Communicate - 04 [720p] [Sub] @ani_maniaa.mp4"
-                },
-                {
-                  "file": 619,
-                  "name": "Komi Cant Communicate S1 - 05 [720p][Sub] @ani_maniaa.mp4"
-                }
-              ],
-              "batch2": [
-                {
-                  "file": 620,
-                  "name": "Komi Cant Communicate S1 - 06 [720p] [Sub] @ani_maniaa.mp4"
-                },
+              "batch_uncategorized": [
                 {
                   "file": 621,
                   "name": "Komi Can't Communicate S1 - 07 [720p] [Sub] @ani_maniaa.mp4"
@@ -1293,9 +1240,31 @@
                 {
                   "file": 624,
                   "name": "Komi Can't Communicate S1 - 10 [720p] [Sub] @ani_maniaa.mkv"
-                }
-              ],
-              "batch3": [
+                },
+                {
+                  "file": 618,
+                  "name": "Komi Cant Communicate - 04 [720p] [Sub] @ani_maniaa.mp4"
+                },
+                {
+                  "file": 619,
+                  "name": "Komi Cant Communicate S1 - 05 [720p][Sub] @ani_maniaa.mp4"
+                },
+                {
+                  "file": 620,
+                  "name": "Komi Cant Communicate S1 - 06 [720p] [Sub] @ani_maniaa.mp4"
+                },
+                {
+                  "file": 615,
+                  "name": "Komi Cant Communicate S1 01 [Sub] [720P] @ani Maniaa-1.mp4"
+                },
+                {
+                  "file": 616,
+                  "name": "Komi Cant Communicate S1 02 [Sub] [720P] @ani_maniaa.mp4"
+                },
+                {
+                  "file": 617,
+                  "name": "Komi Cant Communicate S1 03 [720p] [Sub] @ani_maniaa.mp4"
+                },
                 {
                   "file": 625,
                   "name": "⁍Komi Can’t Communicate S1 - 11 [720p] [Sub] @ani_maniaa.mkv"
@@ -1319,119 +1288,10 @@
   "Lookism": {
     "seasons": {
       "1": {
-        "batches": {
-          "batch1": [
-            {
-              "file": 504,
-              "name": "Seven Deadly Sins - S5 E01 [Dual] 720p @Anime_Fair.mkv"
-            },
-            {
-              "file": 505,
-              "name": "Seven Deadly Sins - S5 E02 [Dual] 720p @Anime_Fair.mkv"
-            },
-            {
-              "file": 506,
-              "name": "Seven Deadly Sins - S5 E03 [Dual] 720p @Anime_Fair.mkv"
-            },
-            {
-              "file": 507,
-              "name": "Seven Deadly Sins - S5 E04 [Dual] 720p @Anime_Fair.mkv"
-            },
-            {
-              "file": 508,
-              "name": "Seven Deadly Sins - S5 E05 [Dual] 720p @Anime_Fair.mkv"
-            }
-          ],
-          "batch2": [
-            {
-              "file": 509,
-              "name": "Seven Deadly Sins - S5 E06 [Dual] 720p @Anime_Fair.mkv"
-            },
-            {
-              "file": 510,
-              "name": "Seven Deadly Sins - S5 E07 [Dual] 720p @Anime_Fair.mkv"
-            },
-            {
-              "file": 511,
-              "name": "Seven Deadly Sins - S5 E08 [Dual] 720p @Anime_Fair.mkv"
-            },
-            {
-              "file": 512,
-              "name": "Seven Deadly Sins - S5 E09 [Dual] 720p @Anime_Fair.mkv"
-            },
-            {
-              "file": 513,
-              "name": "Seven Deadly Sins - S5 E10 [Dual] 720p @Anime_Fair.mkv"
-            }
-          ],
-          "batch3": [
-            {
-              "file": 514,
-              "name": "Seven Deadly Sins - S5 E11 [Dual] 720p @Anime_Fair.mkv"
-            },
-            {
-              "file": 515,
-              "name": "Seven Deadly Sins - S5 E12 [Dual] 720p @Anime_Fair.mkv"
-            },
-            {
-              "file": 516,
-              "name": "Seven Deadly Sins - S5 E13 [Dual] 720p @Anime_Fair.mkv"
-            },
-            {
-              "file": 517,
-              "name": "Seven Deadly Sins - S5 E14 [Dual] 720p @Anime_Fair.mkv"
-            },
-            {
-              "file": 518,
-              "name": "Seven Deadly Sins - S5 E15 [Dual] 720p @Anime_Fair.mkv"
-            }
-          ],
-          "batch4": [
-            {
-              "file": 519,
-              "name": "Seven Deadly Sins - S5 E16 [Dual] 720p @Anime_Fair.mkv"
-            },
-            {
-              "file": 520,
-              "name": "Seven Deadly Sins - S5 E17 [Dual] 720p @Anime_Fair.mkv"
-            },
-            {
-              "file": 521,
-              "name": "Seven Deadly Sins - S5 E18 [Dual] 720p @Anime_Fair.mkv"
-            },
-            {
-              "file": 522,
-              "name": "Seven Deadly Sins - S5 E19 [Dual] 720p @Anime_Fair.mkv"
-            },
-            {
-              "file": 523,
-              "name": "Seven Deadly Sins - S5 E20 [Dual] 720p @Anime_Fair.mkv"
-            }
-          ],
-          "batch5": [
-            {
-              "file": 524,
-              "name": "Seven Deadly Sins - S5 E21 [Dual] 720p @Anime_Fair.mkv"
-            },
-            {
-              "file": 525,
-              "name": "Seven Deadly Sins - S5 E22 [Dual] 720p @Anime_Fair.mkv"
-            },
-            {
-              "file": 526,
-              "name": "Seven Deadly Sins - S5 E23 [Dual] 720p @Anime_Fair.mkv"
-            },
-            {
-              "file": 527,
-              "name": "Seven Deadly Sins - S5 E24 [Dual] 720p @Anime_Fair.mkv"
-            }
-          ]
-        },
-        "language": "Hindi | Official",
         "languages": {
           "Hindi": {
             "batches": {
-              "batch1": [
+              "batch_uncategorized": [
                 {
                   "file": 439,
                   "name": "Lookism E01 @Dub_Anime_in_Hindi.mp4"
@@ -1451,9 +1311,7 @@
                 {
                   "file": 443,
                   "name": "Lookism E05 @Dub_Anime_in_Hindi.mp4"
-                }
-              ],
-              "batch2": [
+                },
                 {
                   "file": 444,
                   "name": "Lookism E06 @Dub_Anime_in_Hindi.mp4"
@@ -1472,10 +1330,8 @@
           }
         },
         "mal_ids": [
-          "18234",
           "53149"
         ],
-        "specials": {},
         "total_episodes": 0
       }
     }
@@ -1486,7 +1342,327 @@
         "languages": {
           "English/Japanese": {
             "batches": {
-              "batch1": [
+              "batch_uncategorized": [
+                {
+                  "file": 756,
+                  "name": "Bunny Girl Senpai S01E01 [720p].mkv"
+                },
+                {
+                  "file": 757,
+                  "name": "Bunny Girl Senpai S01E02 [720p].mkv"
+                },
+                {
+                  "file": 758,
+                  "name": "Bunny Girl Senpai S01E03 [720p].mkv"
+                },
+                {
+                  "file": 759,
+                  "name": "Bunny Girl Senpai S01E04 [720p].mkv"
+                },
+                {
+                  "file": 760,
+                  "name": "Bunny Girl Senpai S01E05.mkv"
+                },
+                {
+                  "file": 761,
+                  "name": "Bunny Girl Senpai S01E06 [720p].mkv"
+                },
+                {
+                  "file": 762,
+                  "name": "Bunny Girl Senpai S01E07 [720p].mkv"
+                },
+                {
+                  "file": 763,
+                  "name": "Bunny Girl Senpai S01E08 [720p].mkv"
+                },
+                {
+                  "file": 764,
+                  "name": "Bunny Girl Senpai S01E09 [720p].mkv"
+                },
+                {
+                  "file": 765,
+                  "name": "Bunny Girl Senpai S01E10 [720p].mkv"
+                },
+                {
+                  "file": 766,
+                  "name": "Bunny Girl Senpai S01E11 [720p].mkv"
+                },
+                {
+                  "file": 767,
+                  "name": "Bunny Girl Senpai S01E12 [720p].mkv"
+                },
+                {
+                  "file": 768,
+                  "name": "Bunny Girl Senpai S01E13 [720p].mkv"
+                },
+                {
+                  "file": 799,
+                  "name": "I've Been Killing Slimes For 300 Years And Maxed Out My .mkv"
+                },
+                {
+                  "file": 793,
+                  "name": "I've Been Killing Slimes for 300 Years and Maxed Out.mp4"
+                },
+                {
+                  "file": 794,
+                  "name": "I've Been Killing Slimes for 300 Years and Maxed Out.mp4"
+                },
+                {
+                  "file": 796,
+                  "name": "I've Been Killing Slimes for 300 Years and Maxed Out.mp4"
+                },
+                {
+                  "file": 797,
+                  "name": "I've Been Killing Slimes for 300 Years and Maxed Out.mp4"
+                },
+                {
+                  "file": 789,
+                  "name": "I've_Been_Killing_Slimes_for_300_Years_and_Maxed_Out_My_Leve.mp4"
+                },
+                {
+                  "file": 790,
+                  "name": "I've_Been_Killing_Slimes_for_300_Years_and_Maxed_Out_My_Leve.mp4"
+                },
+                {
+                  "file": 791,
+                  "name": "I've_Been_Killing_Slimes_for_300_Years_and_Maxed_Out_My_Leve.mp4"
+                },
+                {
+                  "file": 798,
+                  "name": "I've_Been_Killing_Slimes_for_300_Years_and_Maxed_Out_My_Leve.mp4"
+                },
+                {
+                  "file": 800,
+                  "name": "I've_Been_Killing_Slimes_for_300_Years_and_Maxed_Out_My_Leve.mp4"
+                },
+                {
+                  "file": 700,
+                  "name": "Made In Abyss Movie - 01 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 702,
+                  "name": "Made In Abyss Movie - 02 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 704,
+                  "name": "Made In Abyss Movie - 03 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 684,
+                  "name": "Made In Abyss S1 - 01 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 685,
+                  "name": "Made In Abyss S1 - 02 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 686,
+                  "name": "Made In Abyss S1 - 03 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 687,
+                  "name": "Made In Abyss S1 - 04 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 688,
+                  "name": "Made In Abyss S1 - 05 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 689,
+                  "name": "Made In Abyss S1 - 06 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 690,
+                  "name": "Made In Abyss S1 - 07 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 691,
+                  "name": "Made In Abyss S1 - 08 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 692,
+                  "name": "Made In Abyss S1 - 09 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 693,
+                  "name": "Made In Abyss S1 - 10 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 694,
+                  "name": "Made In Abyss S1 - 11 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 695,
+                  "name": "Made In Abyss S1 - 12 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 696,
+                  "name": "Made In Abyss S1 - 13 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 708,
+                  "name": "Made In Abyss S2 - 01 [720p] [Sub] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 709,
+                  "name": "Made In Abyss S2 - 02 [720p] [Sub] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 710,
+                  "name": "Made In Abyss S2 - 03 [720p] [Sub] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 711,
+                  "name": "Made In Abyss S2 - 04 [720p] [Sub] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 712,
+                  "name": "Made In Abyss S2 - 05 [720p] [Sub] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 713,
+                  "name": "Made In Abyss S2 - 06 [720p] [Sub] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 714,
+                  "name": "Made In Abyss S2 - 07 [720p] [Sub] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 715,
+                  "name": "Made In Abyss S2 - 08 [720p] [Sub] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 716,
+                  "name": "Made In Abyss S2 - 09 [720p] [Sub] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 717,
+                  "name": "Made In Abyss S2 - 10 [720p] [Sub] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 718,
+                  "name": "Made In Abyss S2 - 11 [720p] [Sub] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 719,
+                  "name": "Made In Abyss S2 - 12 [720p] [Sub] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 772,
+                  "name": "Rascal Does Not Dream of a Dreaming Girl [720p].mkv"
+                },
+                {
+                  "file": 723,
+                  "name": "The_Devil_is_a_Part_Timer!_S01E01_720p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 724,
+                  "name": "The_Devil_is_a_Part_Timer!_S01E02_720p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 725,
+                  "name": "The_Devil_is_a_Part_Timer!_S01E03_720p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 726,
+                  "name": "The_Devil_is_a_Part_Timer!_S01E04_720p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 727,
+                  "name": "The_Devil_is_a_Part_Timer!_S01E05_720p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 728,
+                  "name": "The_Devil_is_a_Part_Timer!_S01E06_720p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 729,
+                  "name": "The_Devil_is_a_Part_Timer!_S01E07_720p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 730,
+                  "name": "The_Devil_is_a_Part_Timer!_S01E08_720p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 731,
+                  "name": "The_Devil_is_a_Part_Timer!_S01E09_720p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 732,
+                  "name": "The_Devil_is_a_Part_Timer!_S01E10_720p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 733,
+                  "name": "The_Devil_is_a_Part_Timer!_S01E11_720p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 734,
+                  "name": "The_Devil_is_a_Part_Timer!_S01E12_720p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 735,
+                  "name": "The_Devil_is_a_Part_Timer!_S01E13_720p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 740,
+                  "name": "The_Devil_is_a_Part_Timer!_S02E01_1080p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 741,
+                  "name": "The_Devil_is_a_Part_Timer!_S02E02_1080p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 742,
+                  "name": "The_Devil_is_a_Part_Timer!_S02E03_1080p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 743,
+                  "name": "The_Devil_is_a_Part_Timer!_S02E04_1080p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 744,
+                  "name": "The_Devil_is_a_Part_Timer!_S02E05_1080p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 745,
+                  "name": "The_Devil_is_a_Part_Timer!_S02E06_1080p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 746,
+                  "name": "The_Devil_is_a_Part_Timer!_S02E07_1080p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 747,
+                  "name": "The_Devil_is_a_Part_Timer!_S02E08_1080p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 748,
+                  "name": "The_Devil_is_a_Part_Timer!_S02E09_1080p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 749,
+                  "name": "The_Devil_is_a_Part_Timer!_S02E10_1080p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 750,
+                  "name": "The_Devil_is_a_Part_Timer!_S02E11_1080p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 751,
+                  "name": "The_Devil_is_a_Part_Timer!_S02E12_1080p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 682,
+                  "name": "Unknown"
+                },
+                {
+                  "file": 738,
+                  "name": "Unknown"
+                },
+                {
+                  "file": 754,
+                  "name": "Unknown"
+                },
                 {
                   "file": 775,
                   "name": "[@Anime_Hindi_Flix S1EP-01.mkv"
@@ -1500,28 +1676,20 @@
                   "name": "[@Anime_Hindi_Flix S1EP-03.mkv"
                 },
                 {
-                  "file": 792,
-                  "name": "[@Anime_Hindi_Flix S2EP-04.mkv"
+                  "file": 778,
+                  "name": "[@Anime_Hindi_Flix S1EP-04.mkv"
                 },
                 {
                   "file": 779,
                   "name": "[@Anime_Hindi_Flix S1EP-05.mkv"
-                }
-              ],
-              "batch14": [
-                {
-                  "file": 738,
-                  "name": ""
-                }
-              ],
-              "batch2": [
+                },
                 {
                   "file": 780,
                   "name": "[@Anime_Hindi_Flix S1EP-06.mkv"
                 },
                 {
-                  "file": 795,
-                  "name": "[@Anime_Hindi_Flix S2EP-07.mkv"
+                  "file": 781,
+                  "name": "[@Anime_Hindi_Flix S1EP-07.mkv"
                 },
                 {
                   "file": 782,
@@ -1534,9 +1702,7 @@
                 {
                   "file": 784,
                   "name": "[@Anime_Hindi_Flix S1EP-10.mkv"
-                }
-              ],
-              "batch3": [
+                },
                 {
                   "file": 785,
                   "name": "[@Anime_Hindi_Flix S1EP-11.mkv"
@@ -1546,33 +1712,16 @@
                   "name": "[@Anime_Hindi_Flix S1EP-12.mkv"
                 },
                 {
-                  "file": 768,
-                  "name": "Bunny Girl Senpai S01E13 [720p].mkv"
-                }
-              ],
-              "batch60": [
-                {
-                  "file": 800,
-                  "name": "I've_Been_Killing_Slimes_for_300_Years_and_Maxed_Out_My_Leve.mp4"
-                }
-              ],
-              "batch_uncategorized": [
-                {
-                  "file": 682,
-                  "name": ""
+                  "file": 792,
+                  "name": "[@Anime_Hindi_Flix S2EP-04.mkv"
                 },
                 {
-                  "file": 772,
-                  "name": "Rascal Does Not Dream of a Dreaming Girl [720p].mkv"
+                  "file": 795,
+                  "name": "[@Anime_Hindi_Flix S2EP-07.mkv"
                 }
               ]
             },
-            "specials": {
-              "Special_1": {
-                "file": 704,
-                "name": "Made In Abyss Movie - 03 [720p] [Dual] @Anime_Gallery.mkv"
-              }
-            }
+            "specials": {}
           }
         },
         "mal_ids": [
@@ -1588,118 +1737,153 @@
   "Reborn as a Vending Machine": {
     "seasons": {
       "1": {
-        "batches": {
-          "batch1": [
-            {
-              "file": 273,
-              "name": ": [@Anime_Hindi_Flix S1Ep01.mkv"
-            },
-            {
-              "file": 275,
-              "name": ": [@Anime_Hindi_Flix S1Ep02.mkv"
-            },
-            {
-              "file": 278,
-              "name": ": [@Anime_Hindi_Flix S1Ep03.mkv"
-            },
-            {
-              "file": 281,
-              "name": ": [@Anime_Hindi_Flix S1Ep04.mkv"
-            },
-            {
-              "file": 284,
-              "name": ": [@Anime_Hindi_Flix S1Ep05.mkv"
-            }
-          ],
-          "batch2": [
-            {
-              "file": 287,
-              "name": ": [@Anime_Hindi_Flix S1Ep06.mkv"
-            },
-            {
-              "file": 290,
-              "name": ": [@Anime_Hindi_Flix S1Ep07.mkv"
-            },
-            {
-              "file": 293,
-              "name": ": [@Anime_Hindi_Flix S1Ep08.mkv"
-            },
-            {
-              "file": 296,
-              "name": ": [@Anime_Hindi_Flix S1Ep09.mkv"
-            },
-            {
-              "file": 299,
-              "name": ": [@Anime_Hindi_Flix S1Ep10.mkv"
-            }
-          ],
-          "batch3": [
-            {
-              "file": 302,
-              "name": ": [@Anime_Hindi_Flix S1Ep11.mkv"
-            },
-            {
-              "file": 305,
-              "name": ": [@Anime_Hindi_Flix S1Ep12.mkv"
-            }
-          ]
-        },
-        "language": "Hindi",
         "languages": {
           "Hindi": {
             "batches": {
-              "batch1": [
+              "batch_uncategorized": [
+                {
+                  "file": 271,
+                  "name": ": [@Anime_Hindi_Flix S1Ep01.mkv"
+                },
+                {
+                  "file": 272,
+                  "name": ": [@Anime_Hindi_Flix S1Ep01.mkv"
+                },
                 {
                   "file": 273,
                   "name": ": [@Anime_Hindi_Flix S1Ep01.mkv"
+                },
+                {
+                  "file": 274,
+                  "name": ": [@Anime_Hindi_Flix S1Ep02.mkv"
                 },
                 {
                   "file": 275,
                   "name": ": [@Anime_Hindi_Flix S1Ep02.mkv"
                 },
                 {
+                  "file": 276,
+                  "name": ": [@Anime_Hindi_Flix S1Ep03.mkv"
+                },
+                {
+                  "file": 277,
+                  "name": ": [@Anime_Hindi_Flix S1Ep03.mkv"
+                },
+                {
                   "file": 278,
                   "name": ": [@Anime_Hindi_Flix S1Ep03.mkv"
+                },
+                {
+                  "file": 279,
+                  "name": ": [@Anime_Hindi_Flix S1Ep04.mkv"
+                },
+                {
+                  "file": 280,
+                  "name": ": [@Anime_Hindi_Flix S1Ep04.mkv"
                 },
                 {
                   "file": 281,
                   "name": ": [@Anime_Hindi_Flix S1Ep04.mkv"
                 },
                 {
+                  "file": 282,
+                  "name": ": [@Anime_Hindi_Flix S1Ep05.mkv"
+                },
+                {
+                  "file": 283,
+                  "name": ": [@Anime_Hindi_Flix S1Ep05.mkv"
+                },
+                {
                   "file": 284,
                   "name": ": [@Anime_Hindi_Flix S1Ep05.mkv"
-                }
-              ],
-              "batch2": [
+                },
+                {
+                  "file": 285,
+                  "name": ": [@Anime_Hindi_Flix S1Ep06.mkv"
+                },
+                {
+                  "file": 286,
+                  "name": ": [@Anime_Hindi_Flix S1Ep06.mkv"
+                },
                 {
                   "file": 287,
                   "name": ": [@Anime_Hindi_Flix S1Ep06.mkv"
+                },
+                {
+                  "file": 288,
+                  "name": ": [@Anime_Hindi_Flix S1Ep07.mkv"
+                },
+                {
+                  "file": 289,
+                  "name": ": [@Anime_Hindi_Flix S1Ep07.mkv"
                 },
                 {
                   "file": 290,
                   "name": ": [@Anime_Hindi_Flix S1Ep07.mkv"
                 },
                 {
+                  "file": 291,
+                  "name": ": [@Anime_Hindi_Flix S1Ep08.mkv"
+                },
+                {
+                  "file": 292,
+                  "name": ": [@Anime_Hindi_Flix S1Ep08.mkv"
+                },
+                {
                   "file": 293,
                   "name": ": [@Anime_Hindi_Flix S1Ep08.mkv"
+                },
+                {
+                  "file": 294,
+                  "name": ": [@Anime_Hindi_Flix S1Ep09.mkv"
+                },
+                {
+                  "file": 295,
+                  "name": ": [@Anime_Hindi_Flix S1Ep09.mkv"
                 },
                 {
                   "file": 296,
                   "name": ": [@Anime_Hindi_Flix S1Ep09.mkv"
                 },
                 {
+                  "file": 297,
+                  "name": ": [@Anime_Hindi_Flix S1Ep10.mkv"
+                },
+                {
+                  "file": 298,
+                  "name": ": [@Anime_Hindi_Flix S1Ep10.mkv"
+                },
+                {
                   "file": 299,
                   "name": ": [@Anime_Hindi_Flix S1Ep10.mkv"
-                }
-              ],
-              "batch3": [
+                },
+                {
+                  "file": 300,
+                  "name": ": [@Anime_Hindi_Flix S1Ep11.mkv"
+                },
+                {
+                  "file": 301,
+                  "name": ": [@Anime_Hindi_Flix S1Ep11.mkv"
+                },
                 {
                   "file": 302,
                   "name": ": [@Anime_Hindi_Flix S1Ep11.mkv"
                 },
                 {
+                  "file": 303,
+                  "name": ": [@Anime_Hindi_Flix S1Ep12.mkv"
+                },
+                {
+                  "file": 304,
+                  "name": ": [@Anime_Hindi_Flix S1Ep12.mkv"
+                },
+                {
                   "file": 305,
                   "name": ": [@Anime_Hindi_Flix S1Ep12.mkv"
+                },
+                {
+                  "file": 270,
+                  "name": "Unknown"
                 }
               ]
             },
@@ -1709,122 +1893,148 @@
         "mal_ids": [
           "62512"
         ],
-        "specials": {},
         "total_episodes": 0
       },
       "2": {
-        "batches": {
-          "batch1": [
-            {
-              "file": 310,
-              "name": "Reborn as a Vending Machine, I Now Wander the Dungeon S02E01.mp4"
-            },
-            {
-              "file": 312,
-              "name": "[@Anime_Hindi_Flix S2EP-02.mkv"
-            },
-            {
-              "file": 315,
-              "name": "Reborn as a Vending Machine, I Now Wander the Dungeon S02E03.mp4"
-            },
-            {
-              "file": 317,
-              "name": "[@Anime_Hindi_Flix S2EP-04.mp4"
-            },
-            {
-              "file": 320,
-              "name": "(@NEW_ANIMES_HINDI_DUB_INDIA)Reborn as a Vending Machine S02.mkv"
-            }
-          ],
-          "batch2": [
-            {
-              "file": 323,
-              "name": "[@Anime_Hindi_Flix S02EP-06.mp4"
-            },
-            {
-              "file": 326,
-              "name": "(@NEW_ANIMES_HINDI_DUB_INDIA)Reborn as a Vending Mac.mkv"
-            },
-            {
-              "file": 329,
-              "name": "[@Anime_Hindi_Flix] S2EP-08.mp4"
-            },
-            {
-              "file": 332,
-              "name": "[@Anime_Hindi_Flix] S2EP-09.mp4"
-            },
-            {
-              "file": 335,
-              "name": "(@NEW_ANIMES_HINDI_DUB_INDIA)Reborn_as_a_Vending_Mac.mkv"
-            }
-          ],
-          "batch3": [
-            {
-              "file": 338,
-              "name": "(@NEW_ANIMES_HINDI_DUB_INDIA)@NEW_ANIMES_HINDI_DUB_I.mkv"
-            },
-            {
-              "file": 341,
-              "name": "[@Anime_Hindi_Flix] S1EP-12.mp4"
-            }
-          ]
-        },
-        "language": "Hindi",
         "languages": {
           "Hindi": {
             "batches": {
-              "batch1": [
+              "batch_uncategorized": [
                 {
-                  "file": 310,
-                  "name": "Reborn as a Vending Machine, I Now Wander the Dungeon S02E01.mp4"
+                  "file": 324,
+                  "name": "(@NEW_ANIMES_HINDI_DUB_INDIA)@NEW_ANIMES_HINDI_DUB_I.mkv"
                 },
                 {
-                  "file": 312,
-                  "name": "[@Anime_Hindi_Flix S2EP-02.mkv"
+                  "file": 325,
+                  "name": "(@NEW_ANIMES_HINDI_DUB_INDIA)@NEW_ANIMES_HINDI_DUB_I.mkv"
                 },
                 {
-                  "file": 315,
-                  "name": "Reborn as a Vending Machine, I Now Wander the Dungeon S02E03.mp4"
+                  "file": 337,
+                  "name": "(@NEW_ANIMES_HINDI_DUB_INDIA)@NEW_ANIMES_HINDI_DUB_I.mkv"
                 },
                 {
-                  "file": 317,
-                  "name": "[@Anime_Hindi_Flix S2EP-04.mp4"
-                },
-                {
-                  "file": 320,
-                  "name": "(@NEW_ANIMES_HINDI_DUB_INDIA)Reborn as a Vending Machine S02.mkv"
-                }
-              ],
-              "batch2": [
-                {
-                  "file": 323,
-                  "name": "[@Anime_Hindi_Flix S02EP-06.mp4"
+                  "file": 338,
+                  "name": "(@NEW_ANIMES_HINDI_DUB_INDIA)@NEW_ANIMES_HINDI_DUB_I.mkv"
                 },
                 {
                   "file": 326,
                   "name": "(@NEW_ANIMES_HINDI_DUB_INDIA)Reborn as a Vending Mac.mkv"
                 },
                 {
-                  "file": 329,
-                  "name": "[@Anime_Hindi_Flix] S2EP-08.mp4"
+                  "file": 320,
+                  "name": "(@NEW_ANIMES_HINDI_DUB_INDIA)Reborn as a Vending Machine S02.mkv"
                 },
                 {
-                  "file": 332,
-                  "name": "[@Anime_Hindi_Flix] S2EP-09.mp4"
+                  "file": 319,
+                  "name": "(@NEW_ANIMES_HINDI_DUB_INDIA)Reborn as a Vending Machine S02.mp4"
+                },
+                {
+                  "file": 333,
+                  "name": "(@NEW_ANIMES_HINDI_DUB_INDIA)Reborn_as_a_Vending_Mac.mkv"
+                },
+                {
+                  "file": 334,
+                  "name": "(@NEW_ANIMES_HINDI_DUB_INDIA)Reborn_as_a_Vending_Mac.mkv"
                 },
                 {
                   "file": 335,
                   "name": "(@NEW_ANIMES_HINDI_DUB_INDIA)Reborn_as_a_Vending_Mac.mkv"
-                }
-              ],
-              "batch3": [
+                },
                 {
-                  "file": 338,
-                  "name": "(@NEW_ANIMES_HINDI_DUB_INDIA)@NEW_ANIMES_HINDI_DUB_I.mkv"
+                  "file": 308,
+                  "name": "Reborn as a Vending Machine, I Now Wander the Dungeon S02E01.mp4"
+                },
+                {
+                  "file": 309,
+                  "name": "Reborn as a Vending Machine, I Now Wander the Dungeon S02E01.mp4"
+                },
+                {
+                  "file": 310,
+                  "name": "Reborn as a Vending Machine, I Now Wander the Dungeon S02E01.mp4"
+                },
+                {
+                  "file": 313,
+                  "name": "Reborn as a Vending Machine, I Now Wander the Dungeon S02E03.mp4"
+                },
+                {
+                  "file": 314,
+                  "name": "Reborn as a Vending Machine, I Now Wander the Dungeon S02E03.mp4"
+                },
+                {
+                  "file": 315,
+                  "name": "Reborn as a Vending Machine, I Now Wander the Dungeon S02E03.mp4"
+                },
+                {
+                  "file": 336,
+                  "name": "Reborn as a Vending Machine, I Now Wander the Dungeon S02E11.mkv"
+                },
+                {
+                  "file": 318,
+                  "name": "[@Anime_Hindi_Flix S02EP-05.mp4"
+                },
+                {
+                  "file": 321,
+                  "name": "[@Anime_Hindi_Flix S02EP-06.mp4"
+                },
+                {
+                  "file": 322,
+                  "name": "[@Anime_Hindi_Flix S02EP-06.mp4"
+                },
+                {
+                  "file": 323,
+                  "name": "[@Anime_Hindi_Flix S02EP-06.mp4"
+                },
+                {
+                  "file": 311,
+                  "name": "[@Anime_Hindi_Flix S2EP-02.mkv"
+                },
+                {
+                  "file": 312,
+                  "name": "[@Anime_Hindi_Flix S2EP-02.mkv"
+                },
+                {
+                  "file": 316,
+                  "name": "[@Anime_Hindi_Flix S2EP-04.mp4"
+                },
+                {
+                  "file": 317,
+                  "name": "[@Anime_Hindi_Flix S2EP-04.mp4"
+                },
+                {
+                  "file": 339,
+                  "name": "[@Anime_Hindi_Flix] S1EP-12.mp4"
+                },
+                {
+                  "file": 340,
+                  "name": "[@Anime_Hindi_Flix] S1EP-12.mp4"
                 },
                 {
                   "file": 341,
                   "name": "[@Anime_Hindi_Flix] S1EP-12.mp4"
+                },
+                {
+                  "file": 327,
+                  "name": "[@Anime_Hindi_Flix] S2EP-08.mp4"
+                },
+                {
+                  "file": 328,
+                  "name": "[@Anime_Hindi_Flix] S2EP-08.mp4"
+                },
+                {
+                  "file": 329,
+                  "name": "[@Anime_Hindi_Flix] S2EP-08.mp4"
+                },
+                {
+                  "file": 330,
+                  "name": "[@Anime_Hindi_Flix] S2EP-09.mp4"
+                },
+                {
+                  "file": 331,
+                  "name": "[@Anime_Hindi_Flix] S2EP-09.mp4"
+                },
+                {
+                  "file": 332,
+                  "name": "[@Anime_Hindi_Flix] S2EP-09.mp4"
                 }
               ]
             },
@@ -1834,7 +2044,6 @@
         "mal_ids": [
           "62512"
         ],
-        "specials": {},
         "total_episodes": 0
       }
     }
@@ -1842,107 +2051,6 @@
   "The Seven Deadly Sins": {
     "seasons": {
       "1": {
-        "batches": {
-          "batch_uncategorized": [
-            {
-              "file": 349,
-              "name": "[S1-01] The Seven Deadly Sins [Dual] @AnimexWrld.mkv"
-            },
-            {
-              "file": 350,
-              "name": "[S1-02] The Seven Deadly Sins [Dual] @AnimexWrld.mkv"
-            },
-            {
-              "file": 351,
-              "name": "[S1-03] The Seven Deadly Sins [Dual] @AnimexWrld.mkv"
-            },
-            {
-              "file": 352,
-              "name": "[S1-04] The Seven Deadly Sins [Dual] @AnimexWrld.mkv"
-            },
-            {
-              "file": 353,
-              "name": "[S1-05] The Seven Deadly Sins [Dual] @AnimexWrld.mkv"
-            },
-            {
-              "file": 354,
-              "name": "[S1-06] The Seven Deadly Sins [Dual] @AnimexWrld.mkv"
-            },
-            {
-              "file": 355,
-              "name": "[S1-07] The Seven Deadly Sins [Dual] @AnimexWrld.mkv"
-            },
-            {
-              "file": 356,
-              "name": "[S1-08] The Seven Deadly Sins [Dual] @AnimexWrld.mkv"
-            },
-            {
-              "file": 357,
-              "name": "[S1-09] The Seven Deadly Sins [Dual] @AnimexWrld.mkv"
-            },
-            {
-              "file": 358,
-              "name": "[S1-10] The Seven Deadly Sins [Dual] @AnimexWrld.mkv"
-            },
-            {
-              "file": 359,
-              "name": "[S1-11] The Seven Deadly Sins [Dual] @AnimexWrld.mkv"
-            },
-            {
-              "file": 360,
-              "name": "[S1-12] The Seven Deadly Sins [Dual] @AnimexWrld.mkv"
-            },
-            {
-              "file": 361,
-              "name": "[S1-13] The Seven Deadly Sins [Dual] @AnimexWrld.mkv"
-            },
-            {
-              "file": 362,
-              "name": "[S1-14] The Seven Deadly Sins [Dual] @AnimexWrld.mkv"
-            },
-            {
-              "file": 363,
-              "name": "[S1-15] The Seven Deadly Sins [Dual] @AnimexWrld.mkv"
-            },
-            {
-              "file": 364,
-              "name": "[S1-16] The Seven Deadly Sins [Dual] @AnimexWrld.mkv"
-            },
-            {
-              "file": 365,
-              "name": "[S1-17] The Seven Deadly Sins [Dual] @AnimexWrld.mkv"
-            },
-            {
-              "file": 366,
-              "name": "[S1-18] The Seven Deadly Sins [Dual] @AnimexWrld.mkv"
-            },
-            {
-              "file": 367,
-              "name": "[S1-19] The Seven Deadly Sins [Dual] @AnimexWrld.mkv"
-            },
-            {
-              "file": 368,
-              "name": "[S1-20] The Seven Deadly Sins [Dual] @AnimexWrld.mkv"
-            },
-            {
-              "file": 369,
-              "name": "[S1-21] The Seven Deadly Sins [Dual] @AnimexWrld.mkv"
-            },
-            {
-              "file": 370,
-              "name": "[S1-22] The Seven Deadly Sins [Dual] @AnimexWrld.mkv"
-            },
-            {
-              "file": 371,
-              "name": "[S1-23] The Seven Deadly Sins [Dual] @AnimexWrld.mkv"
-            },
-            {
-              "file": 372,
-              "name": "[S1-24] The Seven Deadly Sins [Dual] @AnimexWrld.mkv"
-            }
-          ]
-        },
-        "language": "English & Japanese",
         "languages": {
           "English & Japanese": {
             "batches": {
@@ -2051,14 +2159,13 @@
         "mal_ids": [
           "23755"
         ],
-        "specials": {},
         "total_episodes": 24
       },
       "4": {
         "languages": {
           "Multi Audio": {
             "batches": {
-              "batch1": [
+              "batch_uncategorized": [
                 {
                   "file": 478,
                   "name": "Seven Deadly Sins - S4 E01 [Dual] 720p @Anime_Fair.mkv"
@@ -2078,9 +2185,7 @@
                 {
                   "file": 482,
                   "name": "Seven Deadly Sins - S4 E05 [Dual] 720p @Anime_Fair.mkv"
-                }
-              ],
-              "batch2": [
+                },
                 {
                   "file": 483,
                   "name": "Seven Deadly Sins - S4 E06 [Dual] 720p @Anime_Fair.mkv"
@@ -2100,9 +2205,7 @@
                 {
                   "file": 487,
                   "name": "Seven Deadly Sins - S4 E10 [Dual] 720p @Anime_Fair.mkv"
-                }
-              ],
-              "batch3": [
+                },
                 {
                   "file": 488,
                   "name": "Seven Deadly Sins - S4 E11 [Dual] 720p @Anime_Fair.mkv"
@@ -2122,9 +2225,7 @@
                 {
                   "file": 492,
                   "name": "Seven Deadly Sins - S4 E15 [Dual] 720p @Anime_Fair.mkv"
-                }
-              ],
-              "batch4": [
+                },
                 {
                   "file": 493,
                   "name": "Seven Deadly Sins - S4 E16 [Dual] 720p @Anime_Fair.mkv"
@@ -2144,9 +2245,7 @@
                 {
                   "file": 497,
                   "name": "Seven Deadly Sins - S4 E20 [Dual] 720p @Anime_Fair.mkv"
-                }
-              ],
-              "batch5": [
+                },
                 {
                   "file": 498,
                   "name": "Seven Deadly Sins - S4 E21 [Dual] 720p @Anime_Fair.mkv"
@@ -2177,7 +2276,7 @@
         "languages": {
           "Multi Audio": {
             "batches": {
-              "batch1": [
+              "batch_uncategorized": [
                 {
                   "file": 504,
                   "name": "Seven Deadly Sins - S5 E01 [Dual] 720p @Anime_Fair.mkv"
@@ -2197,9 +2296,7 @@
                 {
                   "file": 508,
                   "name": "Seven Deadly Sins - S5 E05 [Dual] 720p @Anime_Fair.mkv"
-                }
-              ],
-              "batch2": [
+                },
                 {
                   "file": 509,
                   "name": "Seven Deadly Sins - S5 E06 [Dual] 720p @Anime_Fair.mkv"
@@ -2219,9 +2316,7 @@
                 {
                   "file": 513,
                   "name": "Seven Deadly Sins - S5 E10 [Dual] 720p @Anime_Fair.mkv"
-                }
-              ],
-              "batch3": [
+                },
                 {
                   "file": 514,
                   "name": "Seven Deadly Sins - S5 E11 [Dual] 720p @Anime_Fair.mkv"
@@ -2241,9 +2336,7 @@
                 {
                   "file": 518,
                   "name": "Seven Deadly Sins - S5 E15 [Dual] 720p @Anime_Fair.mkv"
-                }
-              ],
-              "batch4": [
+                },
                 {
                   "file": 519,
                   "name": "Seven Deadly Sins - S5 E16 [Dual] 720p @Anime_Fair.mkv"
@@ -2263,9 +2356,7 @@
                 {
                   "file": 523,
                   "name": "Seven Deadly Sins - S5 E20 [Dual] 720p @Anime_Fair.mkv"
-                }
-              ],
-              "batch5": [
+                },
                 {
                   "file": 524,
                   "name": "Seven Deadly Sins - S5 E21 [Dual] 720p @Anime_Fair.mkv"
@@ -2297,115 +2388,10 @@
   "Your Lie In April": {
     "seasons": {
       "1": {
-        "batches": {
-          "batch1": [
-            {
-              "file": 415,
-              "name": "[@Anime_Hindi_Flix] season 01 episode 01 720p.mkv"
-            },
-            {
-              "file": 416,
-              "name": "Your Lie In April S01 E02 [720p] Hindi [@Anime_Hindi_Fli.mkv"
-            },
-            {
-              "file": 417,
-              "name": "Your Lie In April S01 E03 [720p] Hindi [@Anime_Hindi_Fli.mkv"
-            },
-            {
-              "file": 418,
-              "name": "Your Lie In April S01 E04 [720p] Hindi [@Anime_Hindi_Fli.mkv"
-            },
-            {
-              "file": 419,
-              "name": "Your Lie In April S01 E05 [720p] Hindi [@Anime_Hindi_Fli.mkv"
-            }
-          ],
-          "batch2": [
-            {
-              "file": 420,
-              "name": "Your Lie In April S01 E06 [720p] Hindi [@Anime_Hindi_Fli.mkv"
-            },
-            {
-              "file": 421,
-              "name": "Your Lie In April S01 E07 [720p] Hindi [@Anime_Hindi_Fli.mkv"
-            },
-            {
-              "file": 422,
-              "name": "[@Anime_Hindi_Flix] Your Lie in April S01E08 [Hindi] 720.mkv"
-            },
-            {
-              "file": 423,
-              "name": "[@Anime_Hindi_Flix] Your Lie in April S01E09 [Hindi] 720.mkv"
-            },
-            {
-              "file": 424,
-              "name": "[@Anime_Hindi_Flix] Your Lie in April S01E10 [Hindi] 720.mkv"
-            }
-          ],
-          "batch3": [
-            {
-              "file": 425,
-              "name": "[@Anime_Hindi_Flix] Your Lie in April S01E11 [Hindi] 720.mkv"
-            },
-            {
-              "file": 426,
-              "name": "[@Anime_Hindi_Flix] Your Lie in April S01E12 [Hindi] 720.mkv"
-            },
-            {
-              "file": 427,
-              "name": "[@Anime_Hindi_Flix] Your Lie in April S01E13 [Hindi] 720.mkv"
-            },
-            {
-              "file": 428,
-              "name": "[@Anime_Hindi_Flix] season 01 episode 14 720p.mkv"
-            },
-            {
-              "file": 429,
-              "name": "[@Anime_Hindi_Flix] season 01 episode 15 720p.mkv"
-            }
-          ],
-          "batch4": [
-            {
-              "file": 430,
-              "name": "[@Anime_Hindi_Flix] season 01 episode 16 720p.mkv"
-            },
-            {
-              "file": 431,
-              "name": "[@Anime_Hindi_Flix] season 01 episode 17 720p.mkv"
-            },
-            {
-              "file": 432,
-              "name": "[@Anime_Hindi_Flix] season 01 episode 18 720p.mkv"
-            },
-            {
-              "file": 433,
-              "name": "[@Anime_Hindi_Flix] season 01 episode 19 720p.mkv"
-            },
-            {
-              "file": 434,
-              "name": "[@Anime_Hindi_Flix] season 01 episode 20 720p.mkv"
-            }
-          ],
-          "batch5": [
-            {
-              "file": 435,
-              "name": "[@Anime_Hindi_Flix] season 01 episode 21 720p.mkv"
-            },
-            {
-              "file": 436,
-              "name": "[@Anime_Hindi_Flix] season 01 episode 22 720p.mkv"
-            }
-          ]
-        },
-        "language": "Hindi",
         "languages": {
           "Hindi": {
             "batches": {
-              "batch1": [
-                {
-                  "file": 415,
-                  "name": "[@Anime_Hindi_Flix] season 01 episode 01 720p.mkv"
-                },
+              "batch_uncategorized": [
                 {
                   "file": 416,
                   "name": "Your Lie In April S01 E02 [720p] Hindi [@Anime_Hindi_Fli.mkv"
@@ -2421,9 +2407,7 @@
                 {
                   "file": 419,
                   "name": "Your Lie In April S01 E05 [720p] Hindi [@Anime_Hindi_Fli.mkv"
-                }
-              ],
-              "batch2": [
+                },
                 {
                   "file": 420,
                   "name": "Your Lie In April S01 E06 [720p] Hindi [@Anime_Hindi_Fli.mkv"
@@ -2443,9 +2427,7 @@
                 {
                   "file": 424,
                   "name": "[@Anime_Hindi_Flix] Your Lie in April S01E10 [Hindi] 720.mkv"
-                }
-              ],
-              "batch3": [
+                },
                 {
                   "file": 425,
                   "name": "[@Anime_Hindi_Flix] Your Lie in April S01E11 [Hindi] 720.mkv"
@@ -2459,15 +2441,17 @@
                   "name": "[@Anime_Hindi_Flix] Your Lie in April S01E13 [Hindi] 720.mkv"
                 },
                 {
+                  "file": 415,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 01 720p.mkv"
+                },
+                {
                   "file": 428,
                   "name": "[@Anime_Hindi_Flix] season 01 episode 14 720p.mkv"
                 },
                 {
                   "file": 429,
                   "name": "[@Anime_Hindi_Flix] season 01 episode 15 720p.mkv"
-                }
-              ],
-              "batch4": [
+                },
                 {
                   "file": 430,
                   "name": "[@Anime_Hindi_Flix] season 01 episode 16 720p.mkv"
@@ -2487,9 +2471,7 @@
                 {
                   "file": 434,
                   "name": "[@Anime_Hindi_Flix] season 01 episode 20 720p.mkv"
-                }
-              ],
-              "batch5": [
+                },
                 {
                   "file": 435,
                   "name": "[@Anime_Hindi_Flix] season 01 episode 21 720p.mkv"
@@ -2506,7 +2488,6 @@
         "mal_ids": [
           "23273"
         ],
-        "specials": {},
         "total_episodes": 0
       }
     }
