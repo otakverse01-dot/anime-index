@@ -145,125 +145,77 @@
                   "file": 595,
                   "channel_id": -1003175788400,
                   "name": "Death Note S1 - 26 [720p] [Dual] @ani_maniaa.mkv"
+                },
+                {
+                  "file": 596,
+                  "channel_id": -1003175788400,
+                  "name": "Death Note S1 - 27 [720p] [Dual] @ani_maniaa.mkv"
+                },
+                {
+                  "file": 597,
+                  "channel_id": -1003175788400,
+                  "name": "Death Note S1 - 28 [720p] [Dual] @ani_maniaa.mkv"
+                },
+                {
+                  "file": 598,
+                  "channel_id": -1003175788400,
+                  "name": "Death Note S1 - 29 [720p] [Dual] @ani_maniaa.mkv"
+                },
+                {
+                  "file": 599,
+                  "channel_id": -1003175788400,
+                  "name": "Death Note S1 - 30 [720p] [Dual] @ani_maniaa.mkv"
+                }
+              ],
+              "batch7": [
+                {
+                  "file": 600,
+                  "channel_id": -1003175788400,
+                  "name": "Death Note S1 - 31 [720p] [Dual] @ani_maniaa.mkv"
+                },
+                {
+                  "file": 601,
+                  "channel_id": -1003175788400,
+                  "name": "Death Note S1 - 32 [720p] [Dual] @ani_maniaa.mkv"
+                },
+                {
+                  "file": 602,
+                  "channel_id": -1003175788400,
+                  "name": "Death Note S1 - 33 [720p] [Dual] @ani_maniaa.mkv"
+                },
+                {
+                  "file": 603,
+                  "channel_id": -1003175788400,
+                  "name": "Death Note S1 - 34 [720p] [Dual] @ani_maniaa.mkv"
+                },
+                {
+                  "file": 604,
+                  "channel_id": -1003175788400,
+                  "name": "Death Note S1 - 35 [720p] [Dual] @ani_maniaa.mkv"
+                }
+              ],
+              "batch8": [
+                {
+                  "file": 605,
+                  "channel_id": -1003175788400,
+                  "name": "Death Note S1 - 36 [720p] [Dual] @ani_maniaa.mkv"
+                },
+                {
+                  "file": 606,
+                  "channel_id": -1003175788400,
+                  "name": "Death Note S1 - 37 [720p] [Dual] @ani_maniaa.mkv"
                 }
               ],
               "batch_uncategorized": [
                 {
                   "file": 610,
                   "channel_id": -1003175788400,
-                  "name": "Death Note Relight 1 - Visions of God [720p] @ani_maniaa.mkv",
-                  "ai_data": {
-                    "id": "ID_610",
-                    "type": "ignore"
-                  }
+                  "name": "Death Note Relight 1 - Visions of God [720p] @ani_maniaa.mkv"
                 },
                 {
                   "file": 612,
                   "channel_id": -1003175788400,
-                  "name": "Death Note Relight 2 - L's Successors [720p] @ani_maniaa.mkv",
-                  "ai_data": {
-                    "id": "ID_612",
-                    "type": "ignore"
-                  }
-                },
-                {
-                  "file": 596,
-                  "channel_id": -1003175788400,
-                  "name": "Death Note S1 - 27 [720p] [Dual] @ani_maniaa.mkv",
-                  "ai_data": {
-                    "id": "ID_596",
-                    "type": "ignore"
-                  }
-                },
-                {
-                  "file": 597,
-                  "channel_id": -1003175788400,
-                  "name": "Death Note S1 - 28 [720p] [Dual] @ani_maniaa.mkv",
-                  "ai_data": {
-                    "id": "ID_597",
-                    "type": "ignore"
-                  }
-                },
-                {
-                  "file": 598,
-                  "channel_id": -1003175788400,
-                  "name": "Death Note S1 - 29 [720p] [Dual] @ani_maniaa.mkv",
-                  "ai_data": {
-                    "id": "ID_598",
-                    "type": "ignore"
-                  }
-                },
-                {
-                  "file": 599,
-                  "channel_id": -1003175788400,
-                  "name": "Death Note S1 - 30 [720p] [Dual] @ani_maniaa.mkv",
-                  "ai_data": {
-                    "id": "ID_599",
-                    "type": "ignore"
-                  }
-                },
-                {
-                  "file": 600,
-                  "channel_id": -1003175788400,
-                  "name": "Death Note S1 - 31 [720p] [Dual] @ani_maniaa.mkv",
-                  "ai_data": {
-                    "id": "ID_600",
-                    "type": "ignore"
-                  }
-                },
-                {
-                  "file": 601,
-                  "channel_id": -1003175788400,
-                  "name": "Death Note S1 - 32 [720p] [Dual] @ani_maniaa.mkv",
-                  "ai_data": {
-                    "id": "ID_601",
-                    "type": "ignore"
-                  }
-                },
-                {
-                  "file": 602,
-                  "channel_id": -1003175788400,
-                  "name": "Death Note S1 - 33 [720p] [Dual] @ani_maniaa.mkv",
-                  "ai_data": {
-                    "id": "ID_602",
-                    "type": "ignore"
-                  }
-                },
-                {
-                  "file": 603,
-                  "channel_id": -1003175788400,
-                  "name": "Death Note S1 - 34 [720p] [Dual] @ani_maniaa.mkv",
-                  "ai_data": {
-                    "id": "ID_603",
-                    "type": "ignore"
-                  }
-                },
-                {
-                  "file": 604,
-                  "channel_id": -1003175788400,
-                  "name": "Death Note S1 - 35 [720p] [Dual] @ani_maniaa.mkv",
-                  "ai_data": {
-                    "id": "ID_604",
-                    "type": "ignore"
-                  }
-                },
-                {
-                  "file": 605,
-                  "channel_id": -1003175788400,
-                  "name": "Death Note S1 - 36 [720p] [Dual] @ani_maniaa.mkv",
-                  "ai_data": {
-                    "id": "ID_605",
-                    "type": "ignore"
-                  }
-                },
-                {
-                  "file": 606,
-                  "channel_id": -1003175788400,
-                  "name": "Death Note S1 - 37 [720p] [Dual] @ani_maniaa.mkv",
-                  "ai_data": {
-                    "id": "ID_606",
-                    "type": "ignore"
-                  }
+                  "name": "Death Note Relight 2 - L's Successors [720p] @ani_maniaa.mkv"
                 }
               ]
             },
@@ -519,6 +471,11 @@
                   "name": "[@Anime_Hindi_Flix] S1EP-12.mp4"
                 },
                 {
+                  "file": 556,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] S1EP-13.mp4"
+                },
+                {
                   "file": 557,
                   "channel_id": -1003175788400,
                   "name": "[@Anime_Hindi_Flix] season 01 episode 14 720p.mp4"
@@ -572,13 +529,6 @@
                   "channel_id": -1003175788400,
                   "name": "[@Anime_Hindi_Flix] season 01 episode 23 720p.mp4"
                 }
-              ],
-              "batch_uncategorized": [
-                {
-                  "file": 556,
-                  "channel_id": -1003175788400,
-                  "name": "[@Anime_Hindi_Flix] S1EP-13.mp4"
-                }
               ]
             },
             "specials": {}
@@ -587,9 +537,7 @@
         "mal_ids": [
           "59062"
         ],
-        "missing_episodes": [
-          13
-        ],
+        "missing_episodes": [],
         "total_episodes": 0
       }
     }
@@ -1236,11 +1184,7 @@
                 {
                   "file": 242,
                   "channel_id": -1003175788400,
-                  "name": "Jujutsu Kaisen 0_01_@Download_Animes.mp4",
-                  "ai_data": {
-                    "id": "ID_242",
-                    "type": "ignore"
-                  }
+                  "name": "Jujutsu Kaisen 0_01_@Download_Animes.mp4"
                 }
               ]
             },
@@ -1552,6 +1496,66 @@
             "batches": {
               "batch1": [
                 {
+                  "file": 756,
+                  "channel_id": -1003175788400,
+                  "name": "Bunny Girl Senpai S01E01 [720p].mkv"
+                },
+                {
+                  "file": 757,
+                  "channel_id": -1003175788400,
+                  "name": "Bunny Girl Senpai S01E02 [720p].mkv"
+                },
+                {
+                  "file": 758,
+                  "channel_id": -1003175788400,
+                  "name": "Bunny Girl Senpai S01E03 [720p].mkv"
+                },
+                {
+                  "file": 759,
+                  "channel_id": -1003175788400,
+                  "name": "Bunny Girl Senpai S01E04 [720p].mkv"
+                },
+                {
+                  "file": 760,
+                  "channel_id": -1003175788400,
+                  "name": "Bunny Girl Senpai S01E05.mkv"
+                },
+                {
+                  "file": 793,
+                  "channel_id": -1003175788400,
+                  "name": "I've Been Killing Slimes for 300 Years and Maxed Out.mp4"
+                },
+                {
+                  "file": 789,
+                  "channel_id": -1003175788400,
+                  "name": "I've_Been_Killing_Slimes_for_300_Years_and_Maxed_Out_My_Leve.mp4"
+                },
+                {
+                  "file": 790,
+                  "channel_id": -1003175788400,
+                  "name": "I've_Been_Killing_Slimes_for_300_Years_and_Maxed_Out_My_Leve.mp4"
+                },
+                {
+                  "file": 791,
+                  "channel_id": -1003175788400,
+                  "name": "I've_Been_Killing_Slimes_for_300_Years_and_Maxed_Out_My_Leve.mp4"
+                },
+                {
+                  "file": 700,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss Movie - 01 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 702,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss Movie - 02 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 704,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss Movie - 03 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
                   "file": 684,
                   "channel_id": -1003175788400,
                   "name": "Made In Abyss S1 - 01 [720p] [Dual] @Anime_Gallery.mkv"
@@ -1577,322 +1581,6 @@
                   "name": "Made In Abyss S1 - 05 [720p] [Dual] @Anime_Gallery.mkv"
                 },
                 {
-                  "file": 775,
-                  "channel_id": -1003175788400,
-                  "name": "[@Anime_Hindi_Flix S1EP-01.mkv"
-                },
-                {
-                  "file": 776,
-                  "channel_id": -1003175788400,
-                  "name": "[@Anime_Hindi_Flix S1EP-02.mkv"
-                },
-                {
-                  "file": 777,
-                  "channel_id": -1003175788400,
-                  "name": "[@Anime_Hindi_Flix S1EP-03.mkv"
-                },
-                {
-                  "file": 778,
-                  "channel_id": -1003175788400,
-                  "name": "[@Anime_Hindi_Flix S1EP-04.mkv"
-                },
-                {
-                  "file": 779,
-                  "channel_id": -1003175788400,
-                  "name": "[@Anime_Hindi_Flix S1EP-05.mkv"
-                }
-              ],
-              "batch2": [
-                {
-                  "file": 689,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S1 - 06 [720p] [Dual] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 690,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S1 - 07 [720p] [Dual] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 691,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S1 - 08 [720p] [Dual] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 692,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S1 - 09 [720p] [Dual] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 693,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S1 - 10 [720p] [Dual] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 780,
-                  "channel_id": -1003175788400,
-                  "name": "[@Anime_Hindi_Flix S1EP-06.mkv"
-                },
-                {
-                  "file": 781,
-                  "channel_id": -1003175788400,
-                  "name": "[@Anime_Hindi_Flix S1EP-07.mkv"
-                },
-                {
-                  "file": 782,
-                  "channel_id": -1003175788400,
-                  "name": "[@Anime_Hindi_Flix S1EP-08.mkv"
-                },
-                {
-                  "file": 783,
-                  "channel_id": -1003175788400,
-                  "name": "[@Anime_Hindi_Flix S1EP-09.mkv"
-                },
-                {
-                  "file": 784,
-                  "channel_id": -1003175788400,
-                  "name": "[@Anime_Hindi_Flix S1EP-10.mkv"
-                }
-              ],
-              "batch3": [
-                {
-                  "file": 694,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S1 - 11 [720p] [Dual] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 695,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S1 - 12 [720p] [Dual] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 696,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S1 - 13 [720p] [Dual] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 785,
-                  "channel_id": -1003175788400,
-                  "name": "[@Anime_Hindi_Flix S1EP-11.mkv"
-                },
-                {
-                  "file": 786,
-                  "channel_id": -1003175788400,
-                  "name": "[@Anime_Hindi_Flix S1EP-12.mkv"
-                }
-              ],
-              "batch_uncategorized": [
-                {
-                  "file": 756,
-                  "channel_id": -1003175788400,
-                  "name": "Bunny Girl Senpai S01E01 [720p].mkv",
-                  "ai_data": {
-                    "id": "ID_756",
-                    "type": "ignore"
-                  }
-                },
-                {
-                  "file": 757,
-                  "channel_id": -1003175788400,
-                  "name": "Bunny Girl Senpai S01E02 [720p].mkv",
-                  "ai_data": {
-                    "id": "ID_757",
-                    "type": "ignore"
-                  }
-                },
-                {
-                  "file": 758,
-                  "channel_id": -1003175788400,
-                  "name": "Bunny Girl Senpai S01E03 [720p].mkv",
-                  "ai_data": {
-                    "id": "ID_758",
-                    "type": "ignore"
-                  }
-                },
-                {
-                  "file": 759,
-                  "channel_id": -1003175788400,
-                  "name": "Bunny Girl Senpai S01E04 [720p].mkv",
-                  "ai_data": {
-                    "id": "ID_759",
-                    "type": "ignore"
-                  }
-                },
-                {
-                  "file": 760,
-                  "channel_id": -1003175788400,
-                  "name": "Bunny Girl Senpai S01E05.mkv",
-                  "ai_data": {
-                    "id": "ID_760",
-                    "type": "ignore"
-                  }
-                },
-                {
-                  "file": 761,
-                  "channel_id": -1003175788400,
-                  "name": "Bunny Girl Senpai S01E06 [720p].mkv",
-                  "ai_data": {
-                    "id": "ID_761",
-                    "type": "ignore"
-                  }
-                },
-                {
-                  "file": 762,
-                  "channel_id": -1003175788400,
-                  "name": "Bunny Girl Senpai S01E07 [720p].mkv",
-                  "ai_data": {
-                    "id": "ID_762",
-                    "type": "ignore"
-                  }
-                },
-                {
-                  "file": 763,
-                  "channel_id": -1003175788400,
-                  "name": "Bunny Girl Senpai S01E08 [720p].mkv",
-                  "ai_data": {
-                    "id": "ID_763",
-                    "type": "ignore"
-                  }
-                },
-                {
-                  "file": 764,
-                  "channel_id": -1003175788400,
-                  "name": "Bunny Girl Senpai S01E09 [720p].mkv",
-                  "ai_data": {
-                    "id": "ID_764",
-                    "type": "ignore"
-                  }
-                },
-                {
-                  "file": 765,
-                  "channel_id": -1003175788400,
-                  "name": "Bunny Girl Senpai S01E10 [720p].mkv",
-                  "ai_data": {
-                    "id": "ID_765",
-                    "type": "ignore"
-                  }
-                },
-                {
-                  "file": 766,
-                  "channel_id": -1003175788400,
-                  "name": "Bunny Girl Senpai S01E11 [720p].mkv",
-                  "ai_data": {
-                    "id": "ID_766",
-                    "type": "ignore"
-                  }
-                },
-                {
-                  "file": 767,
-                  "channel_id": -1003175788400,
-                  "name": "Bunny Girl Senpai S01E12 [720p].mkv",
-                  "ai_data": {
-                    "id": "ID_767",
-                    "type": "ignore"
-                  }
-                },
-                {
-                  "file": 768,
-                  "channel_id": -1003175788400,
-                  "name": "Bunny Girl Senpai S01E13 [720p].mkv",
-                  "ai_data": {
-                    "id": "ID_768",
-                    "type": "ignore"
-                  }
-                },
-                {
-                  "file": 799,
-                  "channel_id": -1003175788400,
-                  "name": "I've Been Killing Slimes For 300 Years And Maxed Out My .mkv",
-                  "ai_data": {
-                    "id": "ID_799",
-                    "type": "ignore"
-                  }
-                },
-                {
-                  "file": 793,
-                  "channel_id": -1003175788400,
-                  "name": "I've Been Killing Slimes for 300 Years and Maxed Out.mp4",
-                  "ai_data": {
-                    "id": "ID_793",
-                    "type": "ignore"
-                  }
-                },
-                {
-                  "file": 794,
-                  "channel_id": -1003175788400,
-                  "name": "I've Been Killing Slimes for 300 Years and Maxed Out.mp4",
-                  "ai_data": {
-                    "id": "ID_794",
-                    "type": "ignore"
-                  }
-                },
-                {
-                  "file": 796,
-                  "channel_id": -1003175788400,
-                  "name": "I've Been Killing Slimes for 300 Years and Maxed Out.mp4",
-                  "ai_data": {
-                    "id": "ID_796",
-                    "type": "ignore"
-                  }
-                },
-                {
-                  "file": 797,
-                  "channel_id": -1003175788400,
-                  "name": "I've Been Killing Slimes for 300 Years and Maxed Out.mp4",
-                  "ai_data": {
-                    "id": "ID_797",
-                    "type": "ignore"
-                  }
-                },
-                {
-                  "file": 789,
-                  "channel_id": -1003175788400,
-                  "name": "I've_Been_Killing_Slimes_for_300_Years_and_Maxed_Out_My_Leve.mp4",
-                  "ai_data": {
-                    "id": "ID_789",
-                    "type": "ignore"
-                  }
-                },
-                {
-                  "file": 790,
-                  "channel_id": -1003175788400,
-                  "name": "I've_Been_Killing_Slimes_for_300_Years_and_Maxed_Out_My_Leve.mp4",
-                  "ai_data": {
-                    "id": "ID_790",
-                    "type": "ignore"
-                  }
-                },
-                {
-                  "file": 791,
-                  "channel_id": -1003175788400,
-                  "name": "I've_Been_Killing_Slimes_for_300_Years_and_Maxed_Out_My_Leve.mp4"
-                },
-                {
-                  "file": 798,
-                  "channel_id": -1003175788400,
-                  "name": "I've_Been_Killing_Slimes_for_300_Years_and_Maxed_Out_My_Leve.mp4"
-                },
-                {
-                  "file": 800,
-                  "channel_id": -1003175788400,
-                  "name": "I've_Been_Killing_Slimes_for_300_Years_and_Maxed_Out_My_Leve.mp4"
-                },
-                {
-                  "file": 700,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss Movie - 01 [720p] [Dual] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 702,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss Movie - 02 [720p] [Dual] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 704,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss Movie - 03 [720p] [Dual] @Anime_Gallery.mkv"
-                },
-                {
                   "file": 708,
                   "channel_id": -1003175788400,
                   "name": "Made In Abyss S2 - 01 [720p] [Sub] @Anime_Gallery.mkv"
@@ -1900,207 +1588,47 @@
                 {
                   "file": 709,
                   "channel_id": -1003175788400,
-                  "name": "Made In Abyss S2 - 02 [720p] [Sub] @Anime_Gallery.mkv",
-                  "ai_data": {
-                    "id": "ID_709",
-                    "type": "ignore"
-                  }
+                  "name": "Made In Abyss S2 - 02 [720p] [Sub] @Anime_Gallery.mkv"
                 },
                 {
                   "file": 710,
                   "channel_id": -1003175788400,
-                  "name": "Made In Abyss S2 - 03 [720p] [Sub] @Anime_Gallery.mkv",
-                  "ai_data": {
-                    "id": "ID_710",
-                    "type": "ignore"
-                  }
+                  "name": "Made In Abyss S2 - 03 [720p] [Sub] @Anime_Gallery.mkv"
                 },
                 {
                   "file": 711,
                   "channel_id": -1003175788400,
-                  "name": "Made In Abyss S2 - 04 [720p] [Sub] @Anime_Gallery.mkv",
-                  "ai_data": {
-                    "id": "ID_711",
-                    "type": "ignore"
-                  }
+                  "name": "Made In Abyss S2 - 04 [720p] [Sub] @Anime_Gallery.mkv"
                 },
                 {
                   "file": 712,
                   "channel_id": -1003175788400,
-                  "name": "Made In Abyss S2 - 05 [720p] [Sub] @Anime_Gallery.mkv",
-                  "ai_data": {
-                    "id": "ID_712",
-                    "type": "ignore"
-                  }
-                },
-                {
-                  "file": 713,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S2 - 06 [720p] [Sub] @Anime_Gallery.mkv",
-                  "ai_data": {
-                    "id": "ID_713",
-                    "type": "ignore"
-                  }
-                },
-                {
-                  "file": 714,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S2 - 07 [720p] [Sub] @Anime_Gallery.mkv",
-                  "ai_data": {
-                    "id": "ID_714",
-                    "type": "ignore"
-                  }
-                },
-                {
-                  "file": 715,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S2 - 08 [720p] [Sub] @Anime_Gallery.mkv",
-                  "ai_data": {
-                    "id": "ID_715",
-                    "type": "ignore"
-                  }
-                },
-                {
-                  "file": 716,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S2 - 09 [720p] [Sub] @Anime_Gallery.mkv",
-                  "ai_data": {
-                    "id": "ID_716",
-                    "type": "ignore"
-                  }
-                },
-                {
-                  "file": 717,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S2 - 10 [720p] [Sub] @Anime_Gallery.mkv",
-                  "ai_data": {
-                    "id": "ID_717",
-                    "type": "ignore"
-                  }
-                },
-                {
-                  "file": 718,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S2 - 11 [720p] [Sub] @Anime_Gallery.mkv",
-                  "ai_data": {
-                    "id": "ID_718",
-                    "type": "ignore"
-                  }
-                },
-                {
-                  "file": 719,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S2 - 12 [720p] [Sub] @Anime_Gallery.mkv",
-                  "ai_data": {
-                    "id": "ID_719",
-                    "type": "ignore"
-                  }
-                },
-                {
-                  "file": 772,
-                  "channel_id": -1003175788400,
-                  "name": "Rascal Does Not Dream of a Dreaming Girl [720p].mkv",
-                  "ai_data": {
-                    "id": "ID_772",
-                    "type": "ignore"
-                  }
+                  "name": "Made In Abyss S2 - 05 [720p] [Sub] @Anime_Gallery.mkv"
                 },
                 {
                   "file": 723,
                   "channel_id": -1003175788400,
-                  "name": "The_Devil_is_a_Part_Timer!_S01E01_720p_Dual_Audio_@A4_AnimeHouse.mkv",
-                  "ai_data": {
-                    "id": "ID_723",
-                    "type": "ignore"
-                  }
+                  "name": "The_Devil_is_a_Part_Timer!_S01E01_720p_Dual_Audio_@A4_AnimeHouse.mkv"
                 },
                 {
                   "file": 724,
                   "channel_id": -1003175788400,
-                  "name": "The_Devil_is_a_Part_Timer!_S01E02_720p_Dual_Audio_@A4_AnimeHouse.mkv",
-                  "ai_data": {
-                    "id": "ID_724",
-                    "type": "ignore"
-                  }
+                  "name": "The_Devil_is_a_Part_Timer!_S01E02_720p_Dual_Audio_@A4_AnimeHouse.mkv"
                 },
                 {
                   "file": 725,
                   "channel_id": -1003175788400,
-                  "name": "The_Devil_is_a_Part_Timer!_S01E03_720p_Dual_Audio_@A4_AnimeHouse.mkv",
-                  "ai_data": {
-                    "id": "ID_725",
-                    "type": "ignore"
-                  }
+                  "name": "The_Devil_is_a_Part_Timer!_S01E03_720p_Dual_Audio_@A4_AnimeHouse.mkv"
                 },
                 {
                   "file": 726,
                   "channel_id": -1003175788400,
-                  "name": "The_Devil_is_a_Part_Timer!_S01E04_720p_Dual_Audio_@A4_AnimeHouse.mkv",
-                  "ai_data": {
-                    "id": "ID_726",
-                    "type": "ignore"
-                  }
+                  "name": "The_Devil_is_a_Part_Timer!_S01E04_720p_Dual_Audio_@A4_AnimeHouse.mkv"
                 },
                 {
                   "file": 727,
                   "channel_id": -1003175788400,
-                  "name": "The_Devil_is_a_Part_Timer!_S01E05_720p_Dual_Audio_@A4_AnimeHouse.mkv",
-                  "ai_data": {
-                    "id": "ID_727",
-                    "type": "ignore"
-                  }
-                },
-                {
-                  "file": 728,
-                  "channel_id": -1003175788400,
-                  "name": "The_Devil_is_a_Part_Timer!_S01E06_720p_Dual_Audio_@A4_AnimeHouse.mkv",
-                  "ai_data": {
-                    "id": "ID_728",
-                    "type": "ignore"
-                  }
-                },
-                {
-                  "file": 729,
-                  "channel_id": -1003175788400,
-                  "name": "The_Devil_is_a_Part_Timer!_S01E07_720p_Dual_Audio_@A4_AnimeHouse.mkv",
-                  "ai_data": {
-                    "id": "ID_729",
-                    "type": "ignore"
-                  }
-                },
-                {
-                  "file": 730,
-                  "channel_id": -1003175788400,
-                  "name": "The_Devil_is_a_Part_Timer!_S01E08_720p_Dual_Audio_@A4_AnimeHouse.mkv",
-                  "ai_data": {
-                    "id": "ID_730",
-                    "type": "ignore"
-                  }
-                },
-                {
-                  "file": 731,
-                  "channel_id": -1003175788400,
-                  "name": "The_Devil_is_a_Part_Timer!_S01E09_720p_Dual_Audio_@A4_AnimeHouse.mkv"
-                },
-                {
-                  "file": 732,
-                  "channel_id": -1003175788400,
-                  "name": "The_Devil_is_a_Part_Timer!_S01E10_720p_Dual_Audio_@A4_AnimeHouse.mkv"
-                },
-                {
-                  "file": 733,
-                  "channel_id": -1003175788400,
-                  "name": "The_Devil_is_a_Part_Timer!_S01E11_720p_Dual_Audio_@A4_AnimeHouse.mkv"
-                },
-                {
-                  "file": 734,
-                  "channel_id": -1003175788400,
-                  "name": "The_Devil_is_a_Part_Timer!_S01E12_720p_Dual_Audio_@A4_AnimeHouse.mkv"
-                },
-                {
-                  "file": 735,
-                  "channel_id": -1003175788400,
-                  "name": "The_Devil_is_a_Part_Timer!_S01E13_720p_Dual_Audio_@A4_AnimeHouse.mkv"
+                  "name": "The_Devil_is_a_Part_Timer!_S01E05_720p_Dual_Audio_@A4_AnimeHouse.mkv"
                 },
                 {
                   "file": 740,
@@ -2128,6 +1656,158 @@
                   "name": "The_Devil_is_a_Part_Timer!_S02E05_1080p_Dual_Audio_@A4_AnimeHouse.mkv"
                 },
                 {
+                  "file": 775,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix S1EP-01.mkv"
+                },
+                {
+                  "file": 776,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix S1EP-02.mkv"
+                },
+                {
+                  "file": 777,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix S1EP-03.mkv"
+                },
+                {
+                  "file": 778,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix S1EP-04.mkv"
+                },
+                {
+                  "file": 779,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix S1EP-05.mkv"
+                },
+                {
+                  "file": 792,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix S2EP-04.mkv"
+                }
+              ],
+              "batch2": [
+                {
+                  "file": 761,
+                  "channel_id": -1003175788400,
+                  "name": "Bunny Girl Senpai S01E06 [720p].mkv"
+                },
+                {
+                  "file": 762,
+                  "channel_id": -1003175788400,
+                  "name": "Bunny Girl Senpai S01E07 [720p].mkv"
+                },
+                {
+                  "file": 763,
+                  "channel_id": -1003175788400,
+                  "name": "Bunny Girl Senpai S01E08 [720p].mkv"
+                },
+                {
+                  "file": 764,
+                  "channel_id": -1003175788400,
+                  "name": "Bunny Girl Senpai S01E09 [720p].mkv"
+                },
+                {
+                  "file": 765,
+                  "channel_id": -1003175788400,
+                  "name": "Bunny Girl Senpai S01E10 [720p].mkv"
+                },
+                {
+                  "file": 794,
+                  "channel_id": -1003175788400,
+                  "name": "I've Been Killing Slimes for 300 Years and Maxed Out.mp4"
+                },
+                {
+                  "file": 796,
+                  "channel_id": -1003175788400,
+                  "name": "I've Been Killing Slimes for 300 Years and Maxed Out.mp4"
+                },
+                {
+                  "file": 797,
+                  "channel_id": -1003175788400,
+                  "name": "I've Been Killing Slimes for 300 Years and Maxed Out.mp4"
+                },
+                {
+                  "file": 798,
+                  "channel_id": -1003175788400,
+                  "name": "I've_Been_Killing_Slimes_for_300_Years_and_Maxed_Out_My_Leve.mp4"
+                },
+                {
+                  "file": 689,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S1 - 06 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 690,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S1 - 07 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 691,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S1 - 08 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 692,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S1 - 09 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 693,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S1 - 10 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 713,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S2 - 06 [720p] [Sub] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 714,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S2 - 07 [720p] [Sub] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 715,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S2 - 08 [720p] [Sub] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 716,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S2 - 09 [720p] [Sub] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 717,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S2 - 10 [720p] [Sub] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 728,
+                  "channel_id": -1003175788400,
+                  "name": "The_Devil_is_a_Part_Timer!_S01E06_720p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 729,
+                  "channel_id": -1003175788400,
+                  "name": "The_Devil_is_a_Part_Timer!_S01E07_720p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 730,
+                  "channel_id": -1003175788400,
+                  "name": "The_Devil_is_a_Part_Timer!_S01E08_720p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 731,
+                  "channel_id": -1003175788400,
+                  "name": "The_Devil_is_a_Part_Timer!_S01E09_720p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 732,
+                  "channel_id": -1003175788400,
+                  "name": "The_Devil_is_a_Part_Timer!_S01E10_720p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
                   "file": 745,
                   "channel_id": -1003175788400,
                   "name": "The_Devil_is_a_Part_Timer!_S02E06_1080p_Dual_Audio_@A4_AnimeHouse.mkv"
@@ -2153,6 +1833,103 @@
                   "name": "The_Devil_is_a_Part_Timer!_S02E10_1080p_Dual_Audio_@A4_AnimeHouse.mkv"
                 },
                 {
+                  "file": 780,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix S1EP-06.mkv"
+                },
+                {
+                  "file": 781,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix S1EP-07.mkv"
+                },
+                {
+                  "file": 782,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix S1EP-08.mkv"
+                },
+                {
+                  "file": 783,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix S1EP-09.mkv"
+                },
+                {
+                  "file": 784,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix S1EP-10.mkv"
+                },
+                {
+                  "file": 795,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix S2EP-07.mkv"
+                }
+              ],
+              "batch3": [
+                {
+                  "file": 766,
+                  "channel_id": -1003175788400,
+                  "name": "Bunny Girl Senpai S01E11 [720p].mkv"
+                },
+                {
+                  "file": 767,
+                  "channel_id": -1003175788400,
+                  "name": "Bunny Girl Senpai S01E12 [720p].mkv"
+                },
+                {
+                  "file": 768,
+                  "channel_id": -1003175788400,
+                  "name": "Bunny Girl Senpai S01E13 [720p].mkv"
+                },
+                {
+                  "file": 799,
+                  "channel_id": -1003175788400,
+                  "name": "I've Been Killing Slimes For 300 Years And Maxed Out My .mkv"
+                },
+                {
+                  "file": 800,
+                  "channel_id": -1003175788400,
+                  "name": "I've_Been_Killing_Slimes_for_300_Years_and_Maxed_Out_My_Leve.mp4"
+                },
+                {
+                  "file": 694,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S1 - 11 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 695,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S1 - 12 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 696,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S1 - 13 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 718,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S2 - 11 [720p] [Sub] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 719,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S2 - 12 [720p] [Sub] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 733,
+                  "channel_id": -1003175788400,
+                  "name": "The_Devil_is_a_Part_Timer!_S01E11_720p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 734,
+                  "channel_id": -1003175788400,
+                  "name": "The_Devil_is_a_Part_Timer!_S01E12_720p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 735,
+                  "channel_id": -1003175788400,
+                  "name": "The_Devil_is_a_Part_Timer!_S01E13_720p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
                   "file": 750,
                   "channel_id": -1003175788400,
                   "name": "The_Devil_is_a_Part_Timer!_S02E11_1080p_Dual_Audio_@A4_AnimeHouse.mkv"
@@ -2162,6 +1939,18 @@
                   "channel_id": -1003175788400,
                   "name": "The_Devil_is_a_Part_Timer!_S02E12_1080p_Dual_Audio_@A4_AnimeHouse.mkv"
                 },
+                {
+                  "file": 785,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix S1EP-11.mkv"
+                },
+                {
+                  "file": 786,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix S1EP-12.mkv"
+                }
+              ],
+              "batch_uncategorized": [
                 {
                   "file": 682,
                   "channel_id": -1003175788400,
@@ -2178,14 +1967,9 @@
                   "name": "Unknown"
                 },
                 {
-                  "file": 792,
+                  "file": 772,
                   "channel_id": -1003175788400,
-                  "name": "[@Anime_Hindi_Flix S2EP-04.mkv"
-                },
-                {
-                  "file": 795,
-                  "channel_id": -1003175788400,
-                  "name": "[@Anime_Hindi_Flix S2EP-07.mkv"
+                  "name": "Rascal Does Not Dream of a Dreaming Girl [720p].mkv"
                 }
               ]
             },
@@ -2348,9 +2132,7 @@
                   "file": 338,
                   "channel_id": -1003175788400,
                   "name": "(@NEW_ANIMES_HINDI_DUB_INDIA)@NEW_ANIMES_HINDI_DUB_I.mkv"
-                }
-              ],
-              "batch_uncategorized": [
+                },
                 {
                   "file": 340,
                   "channel_id": -1003175788400,
