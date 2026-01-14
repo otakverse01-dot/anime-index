@@ -115,5 +115,36 @@
     "languages": [
       "Hindi"
     ]
+  },
+  {
+    "title": "The Devil is a Part-Timer!",
+    "mal_ids": [
+      "15809",
+      "48413",
+      "53200",
+      "55878"
+    ],
+    "languages": [
+      "English/Japanese"
+    ]
+  },
+  {
+    "title": "Rascal Does Not Dream of Bunny Girl Senpai",
+    "mal_ids": [
+      "37450"
+    ],
+    "languages": [
+      "Japanese"
+    ]
+  },
+  {
+    "title": "I've Been Killing Slimes for 300 Years and Maxed Out My Level",
+    "mal_ids": [
+      "40586",
+      "50738"
+    ],
+    "languages": [
+      "Hindi/Sub"
+    ]
   }
 ]
