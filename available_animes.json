@@ -1,42 +1,5 @@
 [
   {
-    "title": "Death Note",
-    "mal_ids": [
-      "1535"
-    ],
-    "languages": [
-      "English/Japanese"
-    ]
-  },
-  {
-    "title": "Devilman: Crybaby",
-    "mal_ids": [
-      "35120"
-    ],
-    "languages": [
-      "Hindi",
-      "Multi Audio"
-    ]
-  },
-  {
-    "title": "Gachiakuta",
-    "mal_ids": [
-      "59062"
-    ],
-    "languages": [
-      "Hindi"
-    ]
-  },
-  {
-    "title": "Genocyber",
-    "mal_ids": [
-      "2775"
-    ],
-    "languages": [
-      "No Audio"
-    ]
-  },
-  {
     "title": "Haikyuu",
     "mal_ids": [
       "20583",
@@ -56,36 +19,6 @@
     ],
     "languages": [
       "English/Sub"
-    ]
-  },
-  {
-    "title": "Komi Can't Communicate",
-    "mal_ids": [
-      "48926"
-    ],
-    "languages": [
-      "English/Sub"
-    ]
-  },
-  {
-    "title": "Lookism",
-    "mal_ids": [
-      "53149"
-    ],
-    "languages": [
-      "Hindi"
-    ]
-  },
-  {
-    "title": "Made in Abyss",
-    "mal_ids": [
-      "34599",
-      "36862",
-      "37514",
-      "37515"
-    ],
-    "languages": [
-      "English/Japanese"
     ]
   },
   {
@@ -114,6 +47,73 @@
     ],
     "languages": [
       "Hindi"
+    ]
+  },
+  {
+    "title": "Lookism",
+    "mal_ids": [
+      "53149"
+    ],
+    "languages": [
+      "Hindi"
+    ]
+  },
+  {
+    "title": "Devilman Crybaby",
+    "mal_ids": [
+      "35120"
+    ],
+    "languages": [
+      "Hindi",
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "Genocyber",
+    "mal_ids": [
+      "2775"
+    ],
+    "languages": [
+      "No Audio"
+    ]
+  },
+  {
+    "title": "Gachiakuta",
+    "mal_ids": [
+      "59062"
+    ],
+    "languages": [
+      "Hindi"
+    ]
+  },
+  {
+    "title": "Death Note",
+    "mal_ids": [
+      "1535"
+    ],
+    "languages": [
+      "English/Japanese"
+    ]
+  },
+  {
+    "title": "Komi Can't Communicate",
+    "mal_ids": [
+      "48926"
+    ],
+    "languages": [
+      "English/Sub"
+    ]
+  },
+  {
+    "title": "Made in Abyss",
+    "mal_ids": [
+      "34599",
+      "36862",
+      "37514",
+      "37515"
+    ],
+    "languages": [
+      "English/Japanese"
     ]
   },
   {
