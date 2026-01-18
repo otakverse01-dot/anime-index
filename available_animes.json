@@ -286,5 +286,92 @@
     "languages": [
       "English"
     ]
+  },
+  {
+    "title": "Steins;Gate",
+    "mal_ids": [
+      "9253"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "Steins;Gate 0",
+    "mal_ids": [
+      "10863",
+      "11577",
+      "30484"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "Steins;Gate: The Sagacious Wisdom of Cognitive Computing",
+    "mal_ids": [
+      "27957"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "Steins;Gate 0: Valentine's of Crystal Polymorphism -Bittersweet Intermedio-",
+    "mal_ids": [
+      "37492"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "Makeine: Too Many Losing Heroines!",
+    "mal_ids": [
+      "57524",
+      "61398"
+    ],
+    "languages": [
+      "Hindi"
+    ]
+  },
+  {
+    "title": "The Wrong Way to Use Healing Magic",
+    "mal_ids": [
+      "49613",
+      "59467"
+    ],
+    "languages": [
+      "Hindi"
+    ]
+  },
+  {
+    "title": "Assassination Classroom Second Season",
+    "mal_ids": [
+      "24833",
+      "30654"
+    ],
+    "languages": [
+      "Hindi"
+    ]
+  },
+  {
+    "title": "Tying the Knot with an Amagami Sister",
+    "mal_ids": [
+      "55071"
+    ],
+    "languages": [
+      "Hindi"
+    ]
+  },
+  {
+    "title": "Naruto Shippuden",
+    "mal_ids": [
+      "1735"
+    ],
+    "languages": [
+      "English",
+      "Japanese"
+    ]
   }
 ]
