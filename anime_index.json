@@ -4276,6 +4276,140 @@
         ],
         "missing_episodes": [],
         "total_episodes": 0
+      },
+      "S1 Mirror": {
+        "languages": {
+          "Hindi": {
+            "batches": {
+              "batch1": [
+                {
+                  "file": 3047,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3048,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3049,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3050,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3051,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3052,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3053,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3054,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3055,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3056,
+                  "channel_id": -1003498912074
+                }
+              ],
+              "batch2": [
+                {
+                  "file": 3057,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3058,
+                  "channel_id": -1003498912074
+                }
+              ]
+            },
+            "specials": {}
+          }
+        },
+        "mal_ids": [
+          "56400",
+          "38297"
+        ],
+        "missing_episodes": [],
+        "total_episodes": 0
+      },
+      "S2 Mirror": {
+        "languages": {
+          "Hindi": {
+            "batches": {
+              "batch1": [
+                {
+                  "file": 3065,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3067,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3060,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3061,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3062,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3063,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3066,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3064,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3069,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3068,
+                  "channel_id": -1003498912074
+                }
+              ],
+              "batch2": [
+                {
+                  "file": 3071,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3070,
+                  "channel_id": -1003498912074
+                }
+              ]
+            },
+            "specials": {}
+          }
+        },
+        "mal_ids": [
+          "56400",
+          "38297"
+        ],
+        "missing_episodes": [],
+        "total_episodes": 0
       }
     }
   },
@@ -6132,6 +6266,26 @@
           "Multi Audio": {
             "batches": {
               "batch_uncategorized": [
+                {
+                  "file": 3023,
+                  "channel_id": -1003498912074
+                }
+              ]
+            },
+            "specials": {}
+          }
+        },
+        "mal_ids": [
+          "48903"
+        ],
+        "missing_episodes": [],
+        "total_episodes": 0
+      },
+      "Movie Mirror": {
+        "languages": {
+          "Multi Audio": {
+            "batches": {
+              "batch1": [
                 {
                   "file": 3023,
                   "channel_id": -1003498912074
@@ -8454,6 +8608,84 @@
                 },
                 {
                   "file": 2977,
+                  "channel_id": -1003498912074
+                }
+              ]
+            },
+            "specials": {}
+          }
+        },
+        "mal_ids": [
+          "28171",
+          "32282",
+          "35788",
+          "36949",
+          "39940",
+          "40902",
+          "31327",
+          "36962",
+          "34480"
+        ],
+        "missing_episodes": [],
+        "total_episodes": 0
+      },
+      "S5 Mirror": {
+        "languages": {
+          "Hindi": {
+            "batches": {
+              "batch1": [
+                {
+                  "file": 2981,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 2982,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 2983,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 2984,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 2985,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 2986,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 2987,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 2988,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 2989,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 2980,
+                  "channel_id": -1003498912074
+                }
+              ],
+              "batch2": [
+                {
+                  "file": 2990,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 2991,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 2992,
                   "channel_id": -1003498912074
                 }
               ]
@@ -17676,6 +17908,72 @@
         ],
         "missing_episodes": [],
         "total_episodes": 0
+      },
+      "S1 Mirror": {
+        "languages": {
+          "Hindi": {
+            "batches": {
+              "batch1": [
+                {
+                  "file": 3004,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 2995,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 2996,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 2997,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 2998,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 2999,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3001,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3002,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3003,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3000,
+                  "channel_id": -1003498912074
+                }
+              ],
+              "batch2": [
+                {
+                  "file": 3005,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3006,
+                  "channel_id": -1003498912074
+                }
+              ]
+            },
+            "specials": {}
+          }
+        },
+        "mal_ids": [
+          "59484"
+        ],
+        "missing_episodes": [],
+        "total_episodes": 0
       }
     }
   },
@@ -19807,6 +20105,104 @@
         "total_episodes": 0
       },
       "S1 Mirror 2": {
+        "languages": {
+          "Hindi": {
+            "batches": {
+              "batch1": [
+                {
+                  "file": 3031,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3026,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3027,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3028,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3029,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3030,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3032,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3034,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3035,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3033,
+                  "channel_id": -1003498912074
+                }
+              ],
+              "batch2": [
+                {
+                  "file": 3043,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3045,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3044,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3036,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3037,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3039,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3040,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3041,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3038,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3042,
+                  "channel_id": -1003498912074
+                }
+              ]
+            },
+            "specials": {}
+          }
+        },
+        "mal_ids": [
+          "39535"
+        ],
+        "missing_episodes": [],
+        "total_episodes": 0
+      },
+      "S1 Mirror 3": {
         "languages": {
           "Hindi": {
             "batches": {
@@ -33325,6 +33721,73 @@
   "Re:Monster": {
     "seasons": {
       "1": {
+        "languages": {
+          "Hindi": {
+            "batches": {
+              "batch1": [
+                {
+                  "file": 3009,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3010,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3011,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3012,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3013,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3014,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3015,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3016,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3017,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3018,
+                  "channel_id": -1003498912074
+                }
+              ],
+              "batch2": [
+                {
+                  "file": 3019,
+                  "channel_id": -1003498912074
+                },
+                {
+                  "file": 3020,
+                  "channel_id": -1003498912074
+                }
+              ]
+            },
+            "specials": {}
+          }
+        },
+        "mal_ids": [
+          "56690",
+          "62567"
+        ],
+        "missing_episodes": [],
+        "total_episodes": 0
+      },
+      "S1 Mirror": {
         "languages": {
           "Hindi": {
             "batches": {
