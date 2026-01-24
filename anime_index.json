@@ -10514,6 +10514,122 @@
         ],
         "missing_episodes": [],
         "total_episodes": 0
+      },
+      "S1 Mirror 2": {
+        "languages": {
+          "Multi Audio": {
+            "batches": {
+              "batch1": [
+                {
+                  "file": 2012,
+                  "channel_id": -1003175788400
+                },
+                {
+                  "file": 2013,
+                  "channel_id": -1003175788400
+                },
+                {
+                  "file": 2016,
+                  "channel_id": -1003175788400
+                },
+                {
+                  "file": 2021,
+                  "channel_id": -1003175788400
+                },
+                {
+                  "file": 2014,
+                  "channel_id": -1003175788400
+                },
+                {
+                  "file": 2015,
+                  "channel_id": -1003175788400
+                },
+                {
+                  "file": 2017,
+                  "channel_id": -1003175788400
+                },
+                {
+                  "file": 2018,
+                  "channel_id": -1003175788400
+                },
+                {
+                  "file": 2019,
+                  "channel_id": -1003175788400
+                },
+                {
+                  "file": 2020,
+                  "channel_id": -1003175788400
+                }
+              ],
+              "batch2": [
+                {
+                  "file": 2022,
+                  "channel_id": -1003175788400
+                },
+                {
+                  "file": 2023,
+                  "channel_id": -1003175788400
+                },
+                {
+                  "file": 2024,
+                  "channel_id": -1003175788400
+                },
+                {
+                  "file": 2025,
+                  "channel_id": -1003175788400
+                },
+                {
+                  "file": 2026,
+                  "channel_id": -1003175788400
+                },
+                {
+                  "file": 2027,
+                  "channel_id": -1003175788400
+                },
+                {
+                  "file": 2028,
+                  "channel_id": -1003175788400
+                },
+                {
+                  "file": 2029,
+                  "channel_id": -1003175788400
+                },
+                {
+                  "file": 2030,
+                  "channel_id": -1003175788400
+                },
+                {
+                  "file": 2031,
+                  "channel_id": -1003175788400
+                }
+              ],
+              "batch3": [
+                {
+                  "file": 2032,
+                  "channel_id": -1003175788400
+                },
+                {
+                  "file": 2033,
+                  "channel_id": -1003175788400
+                },
+                {
+                  "file": 2034,
+                  "channel_id": -1003175788400
+                },
+                {
+                  "file": 2035,
+                  "channel_id": -1003175788400
+                }
+              ]
+            },
+            "specials": {}
+          }
+        },
+        "mal_ids": [
+          "59062"
+        ],
+        "missing_episodes": [],
+        "total_episodes": 0
       }
     }
   },
@@ -14129,6 +14245,57 @@
           "36838",
           "44087",
           "39486"
+        ],
+        "missing_episodes": [],
+        "total_episodes": 0
+      }
+    }
+  },
+  "Gintama: The Movie": {
+    "seasons": {
+      "M1(Crimson Sakura)": {
+        "languages": {
+          "Multi Audio": {
+            "batches": {
+              "batch1": [
+                {
+                  "file": 2008,
+                  "channel_id": -1003175788400
+                }
+              ]
+            },
+            "specials": {}
+          }
+        },
+        "mal_ids": [
+          "918",
+          "7472"
+        ],
+        "missing_episodes": [],
+        "total_episodes": 0
+      }
+    }
+  },
+  "Gintama: The Movie: The Final Chapter: Be Forever Yorozuya": {
+    "seasons": {
+      "Movie( Be Forever Yor..)": {
+        "languages": {
+          "Multi Audio": {
+            "batches": {
+              "batch1": [
+                {
+                  "file": 2010,
+                  "channel_id": -1003175788400
+                }
+              ]
+            },
+            "specials": {}
+          }
+        },
+        "mal_ids": [
+          "918",
+          "7472",
+          "15335"
         ],
         "missing_episodes": [],
         "total_episodes": 0
@@ -21587,6 +21754,30 @@
           89,
           155,
           204
+        ],
+        "total_episodes": 0
+      },
+      "N( Movie 3)": {
+        "languages": {
+          "Multi Audio": {
+            "batches": {
+              "batch1": [
+                {
+                  "file": 2002,
+                  "channel_id": -1003175788400
+                }
+              ]
+            },
+            "specials": {}
+          }
+        },
+        "mal_ids": [
+          "20",
+          "2144"
+        ],
+        "missing_episodes": [
+          1,
+          2
         ],
         "total_episodes": 0
       }
@@ -33104,6 +33295,158 @@
       }
     }
   },
+  "Naruto Shippuden the Movie 1": {
+    "seasons": {
+      "NS( The Movie)": {
+        "languages": {
+          "Multi Audio": {
+            "batches": {
+              "batch1": [
+                {
+                  "file": 2000,
+                  "channel_id": -1003175788400
+                }
+              ]
+            },
+            "specials": {}
+          }
+        },
+        "mal_ids": [
+          "1735",
+          "2472"
+        ],
+        "missing_episodes": [],
+        "total_episodes": 0
+      }
+    }
+  },
+  "Naruto Shippuden the Movie 2: Bonds": {
+    "seasons": {
+      "NS( The Bonds)": {
+        "languages": {
+          "Multi Audio": {
+            "batches": {
+              "batch1": [
+                {
+                  "file": 1998,
+                  "channel_id": -1003175788400
+                }
+              ]
+            },
+            "specials": {}
+          }
+        },
+        "mal_ids": [
+          "1735",
+          "4437"
+        ],
+        "missing_episodes": [
+          1
+        ],
+        "total_episodes": 0
+      }
+    }
+  },
+  "Naruto Shippuden the Movie 3: The Will of Fire": {
+    "seasons": {
+      "NS( The Will Of Fire)": {
+        "languages": {
+          "Multi Audio": {
+            "batches": {
+              "batch1": [
+                {
+                  "file": 1996,
+                  "channel_id": -1003175788400
+                }
+              ]
+            },
+            "specials": {}
+          }
+        },
+        "mal_ids": [
+          "1735",
+          "6325"
+        ],
+        "missing_episodes": [],
+        "total_episodes": 0
+      }
+    }
+  },
+  "Naruto Shippuden the Movie 4: The Lost Tower": {
+    "seasons": {
+      "NS( The Lost Tower)": {
+        "languages": {
+          "Multi Audio": {
+            "batches": {
+              "batch1": [
+                {
+                  "file": 1994,
+                  "channel_id": -1003175788400
+                }
+              ]
+            },
+            "specials": {}
+          }
+        },
+        "mal_ids": [
+          "1735",
+          "8246"
+        ],
+        "missing_episodes": [],
+        "total_episodes": 0
+      }
+    }
+  },
+  "Naruto Shippuden the Movie 5: Blood Prison": {
+    "seasons": {
+      "NS(Blood Prison)": {
+        "languages": {
+          "Multi Audio": {
+            "batches": {
+              "batch1": [
+                {
+                  "file": 1992,
+                  "channel_id": -1003175788400
+                }
+              ]
+            },
+            "specials": {}
+          }
+        },
+        "mal_ids": [
+          "1735",
+          "10589"
+        ],
+        "missing_episodes": [],
+        "total_episodes": 0
+      }
+    }
+  },
+  "Naruto Shippuden the Movie 6: Road to Ninja": {
+    "seasons": {
+      "NS( Road To Ninja)": {
+        "languages": {
+          "Multi Audio": {
+            "batches": {
+              "batch1": [
+                {
+                  "file": 1990,
+                  "channel_id": -1003175788400
+                }
+              ]
+            },
+            "specials": {}
+          }
+        },
+        "mal_ids": [
+          "13667",
+          "1735"
+        ],
+        "missing_episodes": [],
+        "total_episodes": 0
+      }
+    }
+  },
   "Naruto Shippuden the Movie 7: The Last": {
     "seasons": {
       "NS Movie (The Last)": {
@@ -33125,6 +33468,58 @@
           "16870"
         ],
         "missing_episodes": [],
+        "total_episodes": 0
+      }
+    }
+  },
+  "Naruto the Movie 1: Ninja Clash in the Land of Snow": {
+    "seasons": {
+      "N (Movie 1)": {
+        "languages": {
+          "Multi Audio": {
+            "batches": {
+              "batch1": [
+                {
+                  "file": 2006,
+                  "channel_id": -1003175788400
+                }
+              ]
+            },
+            "specials": {}
+          }
+        },
+        "mal_ids": [
+          "20",
+          "442"
+        ],
+        "missing_episodes": [],
+        "total_episodes": 0
+      }
+    }
+  },
+  "Naruto the Movie 2: Legend of the Stone of Gelel": {
+    "seasons": {
+      "N( Movie 2)": {
+        "languages": {
+          "Multi Audio": {
+            "batches": {
+              "batch1": [
+                {
+                  "file": 2004,
+                  "channel_id": -1003175788400
+                }
+              ]
+            },
+            "specials": {}
+          }
+        },
+        "mal_ids": [
+          "20",
+          "936"
+        ],
+        "missing_episodes": [
+          1
+        ],
         "total_episodes": 0
       }
     }
