@@ -166,6 +166,7 @@
       "60543"
     ],
     "languages": [
+      "Hindi",
       "Multi Audio"
     ]
   },
@@ -1308,6 +1309,39 @@
     ],
     "languages": [
       "Multi Audio"
+    ]
+  },
+  {
+    "title": "Bye Bye, Earth",
+    "mal_ids": [
+      "53626",
+      "59819"
+    ],
+    "languages": [
+      "Hindi",
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "Villainess Level 99: I May Be the Hidden Boss but I'm Not the Demon Lord",
+    "mal_ids": [
+      "54837"
+    ],
+    "languages": [
+      "Hindi/Japanese"
+    ]
+  },
+  {
+    "title": "Black Butler: Public School Arc",
+    "mal_ids": [
+      "22145",
+      "4898",
+      "55855",
+      "59228",
+      "6707"
+    ],
+    "languages": [
+      "Hindi"
     ]
   }
 ]
